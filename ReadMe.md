@@ -23,8 +23,6 @@ Support by:
 3. Create Spanish language option
 4. Import the XML file.
 
-**Note:** This is a version from the Chilean-Spanish Version, and Fernando Caivano + Team added a few words for 3.20 version and corrections in the translation.
-
 
 ## ESPAÑOL
 
@@ -34,7 +32,6 @@ Support by:
 3. Crear la opción de idioma español
 4. Importar el archivo XML
 
-**Nota:** Esta es una versión del paquete de Español para Chile al cual Fernando Caivano y su equipo agregaron algunas pequeñas correcciones y palabras para la versión 3.20.
 
 ## HISTORIA
 **2014 04 12:** Se creó el repositorio GIT.
