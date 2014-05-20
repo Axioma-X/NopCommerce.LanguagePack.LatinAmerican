@@ -15,20 +15,51 @@ Author v3.10: [varatayo](http://www.nopcommerce.com/profile.aspx?userid=85808)
 
 ### How to Use in your NopCommerce Store
 1. Download the language_pack.xml file from the Latin American Spanish folder.
-2. Login as admin into your Nop and go to Admin Area -> Settings -> Languages.
-3. Create Spanish language option.
-4. Import the XML file.
+2. Login as Admin into your Nop.
+3. Go to CONFIGURATION menu, LANGUAGES option.
+4. Click the ADD NEW button and fill the form with:
+	- Name: Español
+	- Laguage culture: Any "Spanish..." option
+	- Unique SEO code: es
+	- Flag image file name: es.png
+	- Right-to-left: Unchecked
+	- Published: Checked
+	- Display order: any numeric value depending of the order you wish
+	- Click the SAVE AND CONTINUE EDIT button
+5. Click in the "IMPORT RESOURCES" button and import the XML.
+
+If you want your store only in Spanish:
+
+1. Click in the "back to language list" link.
+2. Click in the "Edit" link from the English language.
+3. Uncheck the Published option.
+
 
 
 ### Cómo Utilizar en tu tienda NopCommerce
 1. Descargue el archivo language_pack.xml de la carpeta Latin American Spanish.
-2. Iniciar la sesión como Administrador en Nop, ir a la zona de Administración -> Configuración-> Idiomas.
-3. Crear la opción de idioma español.
-4. Importar el archivo XML.
+2. Iniciar la sesión como Administrador en Nop
+3. Vaya al menú CONFIGURATION, opción LANGUAGES.
+4. Clic en el botón ADD NEW y llena el formulario con:
+	- Name: Español
+	- Laguage culture: Cualquier opción "Spanish..."
+	- Unique SEO code: es
+	- Flag image file name: es.png
+	- Right-to-left: Sin chulo
+	- Published: Con chulo
+	- Display order: Cualquier valor numérico dependiendo del orden que desee
+	- Clic el botón SAVE AND CONTINUE EDIT
+5. Clic en el botón "IMPORT RESOURCES" e importe el XML.
+
+Si desea la tienda sólo en español:
+
+1. Clic en el "back to language list".
+2. Clic en el "Edit" del idioma English.
+3. Quitale el chulo a Published.
 
 
 ## Cómo Colaborar
-1. Recomendamos el uso de la herramienta nopCommerceTranslator de [www.fkosoft.com](http://fkosoft.com/en/Products/nopCommerceTranslator)
+1. Recomendamos el uso de la herramienta [nopCommerceTranslator de fkoSoft](http://fkosoft.com/en/Products/nopCommerceTranslator)
 2. Debes conocer GIT. Un buen manual lo puedes revisar aquí: [Conceptos Básicos - Tutoriales de GIT](https://www.atlassian.com/es/git/tutorial/git-basics)
 3. Una vez hecho los cambios haz un Pull Request, el cual lo explican aquí: [Workflow pull request](https://www.atlassian.com/es/git/workflows#!pull-request)
 
