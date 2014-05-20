@@ -28,7 +28,7 @@ Author v3.10: [varatayo](http://www.nopcommerce.com/profile.aspx?userid=85808)
 
 
 ## Cómo Colaborar
-1. Recomendamos el uso de la herramienta nopCommerceTranslator de [www.fkosoft.com](www.fkosoft.com)
+1. Recomendamos el uso de la herramienta nopCommerceTranslator de [www.fkosoft.com](http://fkosoft.com/en/Products/nopCommerceTranslator)
 2. Debes conocer GIT. Un buen manual lo puedes revisar aquí: [Conceptos Básicos - Tutoriales de GIT](https://www.atlassian.com/es/git/tutorial/git-basics)
 3. Una vez hecho los cambios haz un Pull Request, el cual lo explican aquí: [Workflow pull request](https://www.atlassian.com/es/git/workflows#!pull-request)
 
