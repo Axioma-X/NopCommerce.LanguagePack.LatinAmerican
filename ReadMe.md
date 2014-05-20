@@ -10,10 +10,7 @@ Support by:
 
 
 ## Versions
-- nopCommerce 3.20
-- nopCommerce 3.10
-- nopCommerce 3.00 
-
+- nopCommerce 3.30
 
 ## ENGLISH
 
@@ -34,8 +31,17 @@ Support by:
 
 
 ## HISTORIA
+**2014 05 17:** Se Actualizo la versión 3.30 a Español con correción de ortografía y sintáxis.
+
 **2014 04 12:** Se creó el repositorio GIT.
 
 **2014 01 08:** Se creó el "Latin American Spanish language pack" y se hicieron algunas actualizaciones para Nop 3.20.
 
 **2014 01 01:** Versión base [Spanish Language Chilean Version](http://www.nopcommerce.com/p/1121/spanish-language-latam-cl-style.aspx)
+
+## COMO COLABORAR ##
+1. Realize la descarga de la ultima versión del language_pack.xml publicado en GIT
+2. Realize las correciones y ajustes que crea necesario
+**+** Recomendamos el uso de la herramienta nopCommerceTranslator de [www.fkosoft.com](www.fkosoft.com)
+3. Realice un Push Request en GIT para subir sus cambios.
+**+** Cuando se guarda la traducción en nopCommerceTranlator el resultado es un archivo **.Zip**, extraiga el **.XML** y suba este archivo. 
