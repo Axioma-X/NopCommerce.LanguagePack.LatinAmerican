@@ -65,6 +65,8 @@ Si desea la tienda sólo en español:
 
 
 ## Historia
+**2014 05 30:** Adición de Traducciones de Plugins Seve Spikes, Fox Net Soft
+
 **2014 05 20:** Corregido el ReadMe.md.
 
 **2014 05 17:** Se actualizó a la versión 3.30 y se realizaron correciones varias de ortografía y sintáxis.
