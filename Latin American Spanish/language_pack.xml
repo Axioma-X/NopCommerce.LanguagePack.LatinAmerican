@@ -557,7 +557,8 @@
     <Value>Sus datos personales</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewCategory">
     <Value>Se ha agregado una nueva categoría ('{0}')</Value>
@@ -10553,7 +10554,8 @@
     <Value>Condiciones de uso</Value>
   </LocaleResource>
   <LocaleResource Name="Enums">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeControlType.Checkboxes">
     <Value>Casillas de verificación</Value>
@@ -10904,7 +10906,8 @@
     <Value>No compatible</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.CustomerConditionProperty">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.CustomerConditionProperty.Default">
     <Value>Por defecto</Value>
@@ -10925,7 +10928,8 @@
     <Value>Nombre de Usuario</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.OperatorType">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.OperatorType.Contains">
     <Value>Contiene</Value>
@@ -10952,7 +10956,8 @@
     <Value>Diferente de</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ProductConditionProperty">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ProductConditionProperty.Category">
     <Value>Categoria</Value>
@@ -11738,7 +11743,8 @@
     <Value>[Ver Archivo de Noticias]</Value>
   </LocaleResource>
   <LocaleResource Name="Newsletter">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="Newsletter.Button">
     <Value>Suscribir</Value>
@@ -11762,7 +11768,8 @@
     <Value>Suscripción a noticias</Value>
   </LocaleResource>
   <LocaleResource Name="Order">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="Order.BillingAddress">
     <Value>Dirección de Facturación</Value>
@@ -12574,11 +12581,41 @@
   <LocaleResource Name="Plugins.Payments.PayPalStandard.Fields.UseSandbox.Hint">
     <Value>Marcar para habilitar Sandbox (entorno de pruebas).</Value>
   </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.IDKey">
+    <Value>Clave WebService</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.IDKey.hint">
+    <Value>Clave proveída por Zona Virtual</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.IDStore">
+    <Value>ID Único</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.IDStore.hint">
+    <Value>Id proveído por Zona Virtual</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.StoreName">
+    <Value>Nombre Tienda</Value>
+  </LocaleResource>
+  <LocaleResource Name="plugins.payments.zonavirtual.fields.storename.hint">
+    <Value>El nombre de la tienda para Zona Virtual</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.URL">
+    <Value>Botón de Pagos</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.URL.hint">
+    <Value>URL proveído por Zona Virtual</Value>
+  </LocaleResource>
   <LocaleResource Name="Plugins.Shipping.FixedRateShipping.Fields.Rate">
     <Value>Rata</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Shipping.FixedRateShipping.Fields.ShippingMethodName">
     <Value>Método de envío</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.StoresPickup.Fields.stores">
+    <Value>Lista de Tiendas</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.StoresPickup.Fields.Stores.hint">
+    <Value>Tu listado de tiendas separados por punto y coma (ej: tienda 1; tienda 2;…)</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Shipping.UPS.Fields.PackingPackageVolume">
     <Value>Volumen del paquete</Value>
@@ -13271,7 +13308,8 @@
     <Value>Búsqueda de plazo mínimo de {0} caracteres</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.CloudZoom">
     <Value>Nop Cloud Zoom</Value>
@@ -13466,7 +13504,8 @@
     <Value>Necesita guardar antes de poder añadir condiciones.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Conditions.Admin.CustomerOverrides">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Conditions.Admin.CustomerOverrides.AddNew">
     <Value>Agregar nuevo cliente</Value>
@@ -13490,7 +13529,8 @@
     <Value>Tendrá que guardar antes de poder agregar las anulaciones de los clientes.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Conditions.Admin.ProductOverrides">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Conditions.Admin.ProductOverrides.AddNew">
     <Value>Añadir nuevo producto</Value>
@@ -13595,7 +13635,8 @@
     <Value>Ajustes</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.InstantSearch.Public">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.InstantSearch.Public.AllCategories">
     <Value>Todos</Value>
@@ -13646,7 +13687,8 @@
     <Value>JCarousel creado con éxito.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.JCarousel.Admin.DataSourceTypes">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.JCarousel.Admin.DataSourceTypes.AlsoPurchasedProducts">
     <Value>productos que también Adquirido.</Value>
@@ -14123,7 +14165,8 @@
     <Value>Elija una plantilla para las categorías del MegaMenu. Esta plantilla define cómo se mostrarán las categorías y sus subcategorías.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Settings.MegaMenuCategoryTemplates">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Settings.MegaMenuCategoryTemplates.CategoryMenuTemplate.InfiniteCategories">
     <Value>Sublistas infinitas de categoria.</Value>
@@ -14141,7 +14184,8 @@
     <Value>Elija una plantilla para los fabricantes en el MegaMenu. Esta plantilla define cómo se mostrarán los fabricantes.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Settings.MegaMenuManufacturerTemplates">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Settings.MegaMenuManufacturerTemplates.ManufacturerMenuTemplate.WithoutPictures">
     <Value>Fabricantes en lista</Value>
@@ -14606,10 +14650,12 @@
     <Value>El nombre de la zona de widget en cual Filtro de Ajax puede ser añadido. NOTA: El filtro Ajax puede ser añadido solo a una zona widget.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopAjaxFilters.Client">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopAjaxFilters.Client.Common">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopAjaxFilters.Client.Common.All">
     <Value>Todo</Value>
@@ -14630,7 +14676,8 @@
     <Value>NO SE ENCONTRARON RESULTADOS</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopAjaxFilters.Client.PriceRangeFilter">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopAjaxFilters.Client.PriceRangeFilter.Max">
     <Value>Máximo</Value>
@@ -14675,19 +14722,22 @@
     <Value>Ver pestaña</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.ProductTabs">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.ProductTabs.AddNew">
     <Value>Añadir nueva pestaña</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.ProductTabs.AddNewTabPopup">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.ProductTabs.AddNewTabPopup.AddNew">
     <Value>Añadir Nueva pestaña</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.ProductTabs.Fields">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.ProductTabs.Fields.DisplayOrder">
     <Value>Orden de visualización</Value>
@@ -14720,7 +14770,8 @@
     <Value>Pestañas</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.ActivityLog">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.ActivityLog.AddNewTab">
     <Value>Nueva pestaña añadida</Value>
@@ -14756,7 +14807,8 @@
     <Value>Editar la pestaña detalles</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.Fields">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.Fields.Description">
     <Value>Descripción</Value>
@@ -14804,7 +14856,8 @@
     <Value>Tendrá que guardar la pestaña antes de poder asignarla a los fabricantes.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.Notifications">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.Notifications.Added">
     <Value>Pestaña añadida correctamente</Value>
@@ -14828,7 +14881,8 @@
     <Value>Tendrá que guardar la pestaña antes de poder asignarla a productos.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.Settings">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.Settings.AjaxSettings">
     <Value>Ajustes Ajax</Value>
@@ -14921,13 +14975,16 @@
     <Value>Tendrá que guardar la pestaña antes de que pueda limitarlo a las tiendas.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Client">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Client.Tabs">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Client.Tabs.ContactUs">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Client.Tabs.ContactUs.EmailSubject">
     <Value>Consulta de producto</Value>
@@ -14954,13 +15011,15 @@
     <Value>Especificaciones</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders">
     <Value>Sliders </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Carousel3DSettings">
     <Value>Ajustes Carousel 3D</Value>
@@ -15092,7 +15151,8 @@
     <Value>Ajustes Generales</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.NivoSettings">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.NivoSettings.AdvancedSettings">
     <Value>Ajustes Avanzados</Value>
@@ -15236,7 +15296,8 @@
     <Value>La anchura del panel del slider. Nota: utilizar las imágenes con la misma anchura.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider.AddNew">
     <Value>Añadir nuevo slider</Value>
@@ -15251,7 +15312,8 @@
     <Value>Las categorías a las que los sliders se asignan.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider.CategoriesTab">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider.CategoriesTab.HowMappingWorks">
     <Value>Puede asignar el slider para varias categorías. Nota: Cuando un slider se asigna a una categoría a continuación, se mostrará sólo en la página de la categoría.</Value>
@@ -15296,7 +15358,8 @@
     <Value>Los fabricantes a los que los sliders son asignados.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider.ManufacturersTab">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider.ManufacturersTab.HowMappingWorks">
     <Value>Puedes asignar este Slider a varios fabricantes. Nota: Cuando un slider es asignado a un fabricante entonces este sera mostrado solosobre la pagina del fabricante.</Value>
@@ -15305,7 +15368,8 @@
     <Value>Necesitas guardar el slider antes de que puedas añadir asignaciones de fabricante.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider.Settings">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider.Settings.Title">
     <Value>Ajsutes del Slider</Value>
@@ -15323,7 +15387,8 @@
     <Value>El nombre del sistema del slider. No es visible en el área pública. Se utiliza cuando se llama a slider en la integración manual. El valor del argumento 'systemName'.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider.TabTitle">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider.TabTitle.Categories">
     <Value>Categorías</Value>
@@ -15362,7 +15427,8 @@
     <Value>Los nombres de la zona de widget in la que el slider sera añadido.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.SliderImage">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.SliderImage.AddNew">
     <Value>Agregar una nueva imagen al slider</Value>
@@ -15440,7 +15506,8 @@
     <Value>Administrar Sliders</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Widget">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Widget.AddSlider">
     <Value>Añadir el slider a la nueva zona del widget</Value>
@@ -15476,7 +15543,8 @@
     <Value>La zona de widget para el slider sera añadida.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Fields">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Fields.IsRequired">
     <Value>Campo Requerido</Value>
@@ -15752,7 +15820,8 @@
     <Value>Necesitas guardar esta cinta de productos, antes de que puedas limitarlas para las tiendas.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.SpecialPriceTokenExpiresIn">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.SpecialPriceTokenExpiresIn.Days">
     <Value>días</Value>
@@ -16007,13 +16076,16 @@
     <Value>El horario padre</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.Admin">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.Admin.Settings">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.Admin.Settings.CustomHeadStyles">
     <Value>Estilos Personalisados para el Head</Value>
@@ -16055,7 +16127,8 @@
     <Value>Ajustes</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.Common">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.Common.BackSublist">
     <Value>Atrás</Value>
@@ -16073,10 +16146,12 @@
     <Value>Menú personal</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.NeoFashion">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.NeoFashion.Admin">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.NeoFashion.Admin.Settings">
     <Value>Ajustes</Value>
@@ -16091,7 +16166,8 @@
     <Value>Activar la funcionalidad de girar imagen del producto al pasar el mouse encima.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.NeoFashion.Common">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.NeoFashion.Common.CompanyInfo">
     <Value>Información de la empresa</Value>
