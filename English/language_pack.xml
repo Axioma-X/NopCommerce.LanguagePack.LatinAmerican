@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Language Name="English">
+  <!--Translated with nopCommerceTranslator - www.fkosoft.com-->
   <LocaleResource Name="AboutUs">
     <Value>About us</Value>
   </LocaleResource>
@@ -556,7 +557,8 @@
     <Value>Your Personal Details</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.AddNewCategory">
     <Value>Added a new category ('{0}')</Value>
@@ -5788,10 +5790,8 @@
     <Value>Country</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Shipping.Restrictions.Description">
-    <Value>
-      Please mark the checkbox(es) for the country or countries in which you want the
-      shipping method(s) not available
-    </Value>
+    <Value>Please mark the checkbox(es) for the country or countries in which you want the
+                      shipping method(s) not available</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Shipping.Restrictions.Updated">
     <Value>The settings have been updated successfully.</Value>
@@ -10555,7 +10555,8 @@
     <Value>User agreement</Value>
   </LocaleResource>
   <LocaleResource Name="Enums">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.AttributeControlType.Checkboxes">
     <Value>Checkboxes</Value>
@@ -10905,8 +10906,28 @@
   <LocaleResource Name="Enums.Nop.Services.Payments.RecurringPaymentType.NotSupported">
     <Value>Not supported</Value>
   </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ConditionType">
+    <Value>
+    </Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ConditionType.Category">
+    <Value>Category</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ConditionType.Customer">
+    <Value>Customer</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ConditionType.Manufacturer">
+    <Value>Manufacturer</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ConditionType.Product">
+    <Value>Product</Value>
+  </LocaleResource>
+  <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ConditionType.ProductSpecification">
+    <Value>Product Specification</Value>
+  </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.CustomerConditionProperty">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.CustomerConditionProperty.Default">
     <Value>Default</Value>
@@ -10927,7 +10948,8 @@
     <Value>User Name</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.OperatorType">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.OperatorType.Contains">
     <Value>Contains</Value>
@@ -10954,7 +10976,8 @@
     <Value>Not Equal To</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ProductConditionProperty">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Conditions.Domain.ProductConditionProperty.Category">
     <Value>Category</Value>
@@ -11364,6 +11387,57 @@
   <LocaleResource Name="Forum.WatchTopic">
     <Value>Watch Topic</Value>
   </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Misc.MSSQLProvider.AlwaysLoadProductsByDefault">
+    <Value>Always load products for SpeedFilter Plugin</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Misc.MSSQLProvider.AlwaysLoadProductsByDefault.Hint">
+    <Value>Always load products for SpeedFilter Plugin. By default SpeedFilter Plugin will be loading products by Ajax. Reccomend uncheck it. It can significantly improve performance.</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Misc.MSSQLProvider.Enable">
+    <Value>Enable MSSQL Provider</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Misc.MSSQLProvider.Enable.Hint">
+    <Value>Enable MSSQL Provider</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Misc.MSSQLProvider.HideFiltersBlock">
+    <Value>Hide block filters (category pages)</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Misc.MSSQLProvider.HideFiltersBlock.Hint">
+    <Value>Hide block filters (category, manufacturer and vendor pages).</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Misc.MSSQLProvider.IgnoreDiscountsForCatalog">
+    <Value>Ignore discounts (only for Catalog, the performance)</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Misc.MSSQLProvider.IgnoreDiscountsForCatalog.Hint">
+    <Value>Ignore discounts (only for Catalog). It can significantly improve performance.</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Misc.MSSQLProvider.IsNoRegisted">
+    <Value>Unregistered version.</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Misc.MSSQLProvider.IsRegisted">
+    <Value>Registered version.</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Misc.MSSQLProvider.SerialNumber">
+    <Value>Serial number</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Misc.MSSQLProvider.SerialNumber.Hint">
+    <Value>Serial number</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Misc.MSSQLProvider.showDebugInfo">
+    <Value>Enable Debugging</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Misc.MSSQLProvider.showDebugInfo.Hint">
+    <Value>Write debugging information into file. In ~/App_Data/ folder</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Misc.MSSQLProvider.StoreUrl">
+    <Value>Website address (for registration)</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Misc.MSSQLProvider.StoreUrl.Hint">
+    <Value>Website address (for registration)</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Misc.MSSQLProvider.Test">
+    <Value>Test Store Procedures (for Demo NopCommerce Store)</Value>
+  </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.Contents.Categories">
     <Value>Category mappings</Value>
   </LocaleResource>
@@ -11556,6 +11630,276 @@
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.ContentSettings.StoreUrl.Hint">
     <Value>Website address (for registration)</Value>
   </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.AdvancedSettings">
+    <Value>Advanced Settings</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.ClearLogFile">
+    <Value>Clear the log-file</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.DefaultCloseAttributes">
+    <Value>Close Attributes Filter By Default</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.DefaultCloseAttributes.Hint">
+    <Value>Close Attributes Filter By Default</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.DefaultCloseManufacturers">
+    <Value>Close Manufacturers Filter By Default</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.DefaultCloseManufacturers.Hint">
+    <Value>Close Manufacturers Filter By Default</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.DefaultClosePriceRange">
+    <Value>Close Price Range Filter By Default</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.DefaultClosePriceRange.Hint">
+    <Value>Close Price Range Filter By Default</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.DefaultCloseSpecifications">
+    <Value>Close Specifications Filter By Default</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.DefaultCloseSpecifications.Hint">
+    <Value>Close Specifications Filter By Default</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.DefaultCloseVendors">
+    <Value>Close Vendors Filter By Default</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.DefaultCloseVendors.Hint">
+    <Value>Close Vendors Filter By Default</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.DefaultProductSorting">
+    <Value>Default Product Sorting</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.DefaultProductSorting.Hint">
+    <Value>Default Product Sorting</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EmptyResult.Caption">
+    <Value>NO RESULTS FOUND</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EmptyResult.Text">
+    <Value>There are no products for filters. Please change your search criteria.</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableAttributesFilter">
+    <Value>Enable Attributes Filter</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableAttributesFilter.Hint">
+    <Value>Enable Attributes Filter</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableFiltersForCategory">
+    <Value>Enable Filters on Category Page</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableFiltersForCategory.Hint">
+    <Value>Enable Filters on Category Page</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableFiltersForManufacturer">
+    <Value>Enable Filters on Manufacturer Page</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableFiltersForManufacturer.Hint">
+    <Value>Enable Filters on Manufacturer Page</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableFiltersForVendor">
+    <Value>Enable Filters on Vendor Page</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableFiltersForVendor.Hint">
+    <Value>Enable Filters on Vendor Page</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableManufacturersFilter">
+    <Value>Enable Manufacturers Filter</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableManufacturersFilter.Hint">
+    <Value>Enable Manufacturers Filter</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnablePriceRangeFilter">
+    <Value>Enable Price Range Filter</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnablePriceRangeFilter.Hint">
+    <Value>Enable Price Range Filter</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableSpecificationsFilter">
+    <Value>Enable Specifications Filter</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableSpecificationsFilter.Hint">
+    <Value>Enable Specifications Filter</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableSpeedFilters">
+    <Value>Enable Speed Filters</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableSpeedFilters.Hint">
+    <Value>Enable Speed Filters</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableVendorsFilter">
+    <Value>Enable Vendors Filter</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableVendorsFilter.Hint">
+    <Value>Enable Vendors Filter</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.ErrorMessage">
+    <Value>Error. Failed to load products. Please refresh the page and try one more time.</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.FiltersConditionAttributes">
+    <Value>Filters condition for attributes</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.FiltersConditionAttributes.Hint">
+    <Value>Filters condition for attributes (per block)</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.FiltersConditionSpecifications">
+    <Value>Filters condition for specifications</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.FiltersConditionSpecifications.Hint">
+    <Value>Filters condition for specifications (per block)</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.FilterSettings">
+    <Value>Filter Settings</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.FiltersType">
+    <Value>Filters Type</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.FiltersType.Hint">
+    <Value>Filters Type</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.GeneralSettings">
+    <Value>General Settings</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.GetLogFile">
+    <Value>Download the log-file</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.HTMLSelector.Required">
+    <Value>HTML selector is required</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.IgnoreDiscountsForCatalog">
+    <Value>Check to ignore discounts (only for Catalog)</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.IgnoreDiscountsForCatalog.Hint">
+    <Value>Check to ignore discounts (only for Catalog). It can significantly improve performance.</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.IsNoRegisted">
+    <Value>Unregistered version, work only 30 days.</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.IsRegisted">
+    <Value>Registered version.</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.ProductSelectorsSelector">
+    <Value>Html selector for Product Selectors (OrderBy, ViewMode, PageSize)</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.ProductSelectorsSelector.Hint">
+    <Value>Html selector for Product Selectors (OrderBy, ViewMode, PageSize)</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.ScrollAfterFiltration">
+    <Value>Enable Scroll After Filtration</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.ScrollAfterFiltration.Hint">
+    <Value>Enable Scroll After Filtration</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SelectorForGridPanel">
+    <Value>Html selector for Product Grid Panel</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SelectorForGridPanel.Hint">
+    <Value>Html selector for Product Grid Panel</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SelectorForListPanel">
+    <Value>Html selector for Product List Panel</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SelectorForListPanel.Hint">
+    <Value>Html selector for Product List Panel</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SelectorForPager">
+    <Value>Html selector for Pager Panel</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SelectorForPager.Hint">
+    <Value>Html selector for Pager Panel</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SelectorForProductPageSize">
+    <Value>Html selector for Page Size options (DropDown)</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SelectorForProductPageSize.Hint">
+    <Value>Html selector for Page Size options (DropDown)</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SelectorForScrolling">
+    <Value>Html selector for Scrolling</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SelectorForScrolling.Hint">
+    <Value>Html selector for Scrolling</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SelectorForSortOptions">
+    <Value>Html selector for sort options (DropDown)</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SelectorForSortOptions.Hint">
+    <Value>Html selector for sort options (DropDown)</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SelectorForViewOptions">
+    <Value>Html selector for view options (DropDown)</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SelectorForViewOptions.Hint">
+    <Value>Html selector for view options (DropDown)</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SelectorSettings">
+    <Value>Selectors</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SerialNumber">
+    <Value>Serial number</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SerialNumber.Hint">
+    <Value>Serial number</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.showDebugInfo">
+    <Value>Enable Debugging</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.showDebugInfo.Hint">
+    <Value>Write debugging information into file. In ~/App_Data/ folder</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SkipFiltersforCategories">
+    <Value>Categories without filters (comma separated)</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SkipFiltersforCategories.Hint">
+    <Value>Categories ids (comma separated), in which you don't want to show filters</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SkipFiltersforManufacturers">
+    <Value>Manufacturers without filters (comma separated)</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SkipFiltersforManufacturers.Hint">
+    <Value>Manufacturers ids (comma separated), in which you don't want to show filters</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SkipFiltersforVendors">
+    <Value>Vendors without filters (comma separated)</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SkipFiltersforVendors.Hint">
+    <Value>Vendors ids (comma separated), in which you don't want to show filters</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.StoreUrl">
+    <Value>Website address (for registration)</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.StoreUrl.Hint">
+    <Value>Website address (for registration)</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.UserMode.All">
+    <Value>All</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.UserMode.Clear">
+    <Value>Clear</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.UserMode.ClearAll">
+    <Value>Clear All</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.UserMode.FilterTitle">
+    <Value>Filter by:</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.UserMode.Manufacturers.Title">
+    <Value>MANUFACTURERS</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.UserMode.PriceRange.Title">
+    <Value>Price range</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.UserMode.Vendors.Title">
+    <Value>VENDORS</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.WidgetZone">
+    <Value>WidgetZone</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.WidgetZone.Hint">
+    <Value>WidgetZone</Value>
+  </LocaleResource>
+  <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.WidgetZone.Required">
+    <Value>Please enter a Widget</Value>
+  </LocaleResource>
   <LocaleResource Name="GiftCardAttribute.For.Physical">
     <Value>For: {0}</Value>
   </LocaleResource>
@@ -11740,7 +12084,8 @@
     <Value>[View News Archive]</Value>
   </LocaleResource>
   <LocaleResource Name="Newsletter">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="Newsletter.Button">
     <Value>Subscribe</Value>
@@ -11764,7 +12109,8 @@
     <Value>Subscribe to our newsletter</Value>
   </LocaleResource>
   <LocaleResource Name="Order">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="Order.BillingAddress">
     <Value>Billing Address</Value>
@@ -11857,7 +12203,8 @@
     <Value>{0} reward points</Value>
   </LocaleResource>
   <LocaleResource Name="Order.Shipments">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="Order.Shipments.DeliveryDate">
     <Value>Date delivered</Value>
@@ -12465,6 +12812,90 @@
   <LocaleResource Name="Plugins.Com.WebServices.Description4">
     <Value>Endpoint {0}</Value>
   </LocaleResource>
+  <LocaleResource Name="Plugins.DiscountRules.CustomerRoles.Fields.CustomerRole">
+    <Value>Required customer role</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.DiscountRules.CustomerRoles.Fields.CustomerRole.Hint">
+    <Value>Discount will be applied if customer is in the selected customer role.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.DiscountRules.HadSpentAmount.Fields.Amount">
+    <Value>Required spent amount</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.DiscountRules.HadSpentAmount.Fields.Amount.Hint">
+    <Value>Discount will be applied if customer has spent/purchased x.xx amount.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.DiscountRules.HasAllProducts.Fields.Products">
+    <Value>Restricted products</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.DiscountRules.HasAllProducts.Fields.Products.Hint">
+    <Value>The comma-separated list of product identifiers (e.g. 77, 123, 156). You can find a product ID on its details page. You can also specify the comma-separated list of product identifiers with quantities ({Product ID}:{Quantity}. for example, 77:1, 123:2, 156:3). And you can also specify the comma-separated list of product identifiers with quantity range ({Product ID}:{Min quantity}-{Max quantity}. for example, 77:1-3, 123:2-5, 156:3-8).</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.DiscountRules.HasOneProduct.Fields.Products">
+    <Value>Restricted product</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.DiscountRules.HasOneProduct.Fields.Products.Hint">
+    <Value>The comma-separated list of product identifiers (e.g. 77, 123, 156). You can find a product ID on its details page. You can also specify the comma-separated list of product identifiers with quantities ({Product ID}:{Quantity}. for example, 77:1, 123:2, 156:3). And you can also specify the comma-separated list of product identifiers with quantity range ({Product ID}:{Min quantity}-{Max quantity}. for example, 77:1-3, 123:2-5, 156:3-8).</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Feed.Froogle.Currency">
+    <Value>Currency</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Feed.Froogle.Currency.Hint">
+    <Value>Select the default currency that will be used to generate the feed.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Feed.Froogle.DefaultGoogleCategory">
+    <Value>Default Google category</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Feed.Froogle.DefaultGoogleCategory.Hint">
+    <Value>The default Google category to use if one is not specified.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Feed.Froogle.General">
+    <Value>General</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Feed.Froogle.Generate">
+    <Value>Generate feed</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Feed.Froogle.Override">
+    <Value>Override product settings</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Feed.Froogle.ProductPictureSize">
+    <Value>Product thumbnail image size</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Feed.Froogle.ProductPictureSize.Hint">
+    <Value>The default size (pixels) for product thumbnail images.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Feed.Froogle.Products.AgeGroup">
+    <Value>Age group</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Feed.Froogle.Products.Color">
+    <Value>Color</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Feed.Froogle.Products.Gender">
+    <Value>Gender</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Feed.Froogle.Products.GoogleCategory">
+    <Value>Google Category</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Feed.Froogle.Products.ProductName">
+    <Value>Product</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Feed.Froogle.Products.Size">
+    <Value>Size</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Feed.Froogle.StaticFilePath">
+    <Value>Generated file path (static)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Feed.Froogle.StaticFilePath.Hint">
+    <Value>A file path of the generated Froogle file. It's static for your store and can be shared with the Froogle service.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Feed.Froogle.Store">
+    <Value>Store</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Feed.Froogle.Store.Hint">
+    <Value>Select the store that will be used to generate the feed.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Feed.Froogle.SuccessResult">
+    <Value>Froogle feed has been successfully generated.</Value>
+  </LocaleResource>
   <LocaleResource Name="Plugins.Misc.HtmlOptimiser.Fields.AddHeaders">
     <Value>Add Headers</Value>
   </LocaleResource>
@@ -12509,6 +12940,66 @@
   </LocaleResource>
   <LocaleResource Name="Plugins.Misc.WebServices.Description4">
     <Value>For mex endpoint use {0}</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payment.CashOnDelivery.AdditionalFee">
+    <Value>Additional fee</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payment.CashOnDelivery.AdditionalFee.Hint">
+    <Value>The additional fee.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payment.CashOnDelivery.AdditionalFeePercentage">
+    <Value>Additional fee. Use percentage</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payment.CashOnDelivery.AdditionalFeePercentage.Hint">
+    <Value>Determines whether to apply a percentage additional fee to the order total. If not enabled, a fixed value is used.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payment.CashOnDelivery.DescriptionText">
+    <Value>Description</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payment.CashOnDelivery.DescriptionText.Hint">
+    <Value>Enter info that will be shown to customers during checkout</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.PayPalDirect.Fields.AdditionalFee">
+    <Value>Additional fee</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.PayPalDirect.Fields.AdditionalFee.Hint">
+    <Value>Enter additional fee to charge your customers.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.PayPalDirect.Fields.AdditionalFeePercentage">
+    <Value>Additional fee. Use percentage</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.PayPalDirect.Fields.AdditionalFeePercentage.Hint">
+    <Value>Determines whether to apply a percentage additional fee to the order total. If not enabled, a fixed value is used.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.PayPalDirect.Fields.ApiAccountName">
+    <Value>API Account Name</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.PayPalDirect.Fields.ApiAccountName.Hint">
+    <Value>Specify API account name.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.PayPalDirect.Fields.ApiAccountPassword">
+    <Value>API Account Password</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.PayPalDirect.Fields.ApiAccountPassword.Hint">
+    <Value>Specify API account password.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.PayPalDirect.Fields.Signature">
+    <Value>Signature</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.PayPalDirect.Fields.Signature.Hint">
+    <Value>Specify signature.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.PayPalDirect.Fields.TransactMode">
+    <Value>Transaction mode</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.PayPalDirect.Fields.TransactMode.Hint">
+    <Value>Specify transaction mode.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.PayPalDirect.Fields.UseSandbox">
+    <Value>Use Sandbox</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.PayPalDirect.Fields.UseSandbox.Hint">
+    <Value>Check to enable Sandbox (testing environment).</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Payments.PayPalStandard.Fields.AdditionalFee">
     <Value>Additional fee</Value>
@@ -12576,11 +13067,122 @@
   <LocaleResource Name="Plugins.Payments.PayPalStandard.Fields.UseSandbox.Hint">
     <Value>Check to enable Sandbox (testing environment).</Value>
   </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.AdditionalFee">
+    <Value>Additional fee</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.AdditionalFee.Hint">
+    <Value>Enter additional fee to charge your customers.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.AdditionalFeePercentage">
+    <Value>Additional fee. Use percentage</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.AdditionalFeePercentage.Hint">
+    <Value>Determines whether to apply a percentage additional fee to the order total. If not enabled, a fixed value is used.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.BusinessEmail">
+    <Value>Business Email</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.BusinessEmail.Hint">
+    <Value>Specify your PayPal business email.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.EnableIpn">
+    <Value>Enable IPN (Instant Payment Notification)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.EnableIpn.Hint">
+    <Value>Check if IPN is enabled.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.EnableIpn.Hint2">
+    <Value>Leave blank to use the default IPN handler URL.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.IDKey">
+    <Value>WebService Password</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.IDKey.Hint">
+    <Value>Password provided for Zona Virtual</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.IDStore">
+    <Value>Unique ID</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.IDStore.Hint">
+    <Value>Unique ID</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.IpnUrl">
+    <Value>IPN Handler</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.IpnUrl.Hint">
+    <Value>Specify IPN Handler.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.PassProductNamesAndTotals">
+    <Value>Pass product names and order totals to PayPal</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.PassProductNamesAndTotals.Hint">
+    <Value>Check if product names and order totals should be passed to PayPal.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.PDTToken">
+    <Value>PDT Identity Token</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.PDTToken.Hint">
+    <Value>Specify PDT identity token</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.PDTValidateOrderTotal">
+    <Value>PDT. Validate order total</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.PDTValidateOrderTotal.Hint">
+    <Value>Check if PDT handler should validate order totals.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.RedirectionTip">
+    <Value>You will be redirected to PayPal site to complete the order.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.ReturnFromPayPalWithoutPaymentRedirectsToOrderDetailsPage">
+    <Value>Return to order details page</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.ReturnFromPayPalWithoutPaymentRedirectsToOrderDetailsPage.Hint">
+    <Value>Enable if a customer should be redirected to the order details page when he clicks "return to store" link on PayPal site WITHOUT completing a payment</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.StoreName">
+    <Value>Store Name</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.StoreName.Hint">
+    <Value>The name of the Store for Zona Virtual</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.URL">
+    <Value>URL Payment Button</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.URL.Hint">
+    <Value>URL provided for Zona Virtual</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.UseSandbox">
+    <Value>Use Sandbox</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.UseSandbox.Hint">
+    <Value>Check to enable Sandbox (testing environment).</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Front.Message">
+    <Value>Zona Virtual Payment Method redirect you buy to www.zonavirual.com to complete the process</Value>
+  </LocaleResource>
   <LocaleResource Name="Plugins.Shipping.FixedRateShipping.Fields.Rate">
     <Value>Rate</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Shipping.FixedRateShipping.Fields.ShippingMethodName">
     <Value>Shipping method</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.StoresPickup.Fields.Stores">
+    <Value>List of stores</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.StoresPickup.Fields.Stores.Hint">
+    <Value>Your store list separated by semicolon (e.g. store 1; store 2;…)</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.StoresPickup.NoAddress">
+    <Value>Shipping address is not set</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.StoresPickup.NoCountry">
+    <Value>Shipping country is not set</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.StoresPickup.NoItems">
+    <Value>No shipment items</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Shipping.StoresPickup.Selection">
+    <Value>Pick up on Store: </Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Shipping.UPS.Fields.PackingPackageVolume">
     <Value>Package volume</Value>
@@ -12605,6 +13207,48 @@
   </LocaleResource>
   <LocaleResource Name="Plugins.Shipping.UPS.Fields.Tracing.Hint">
     <Value>Check if you want to record plugin tracing in System Log. Warning: The entire request and response XML will be logged (including AccessKey/UserName,Password). Do not leave this enabled in a production environment.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Tax.CountryStateZip.AddRecord">
+    <Value>Add tax rate</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Tax.CountryStateZip.AddRecord.Hint">
+    <Value>Adding a new tax rate</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Tax.CountryStateZip.Fields.Country">
+    <Value>Country</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Tax.CountryStateZip.Fields.Country.Hint">
+    <Value>The country.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Tax.CountryStateZip.Fields.Percentage">
+    <Value>Percentage</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Tax.CountryStateZip.Fields.Percentage.Hint">
+    <Value>The tax rate.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Tax.CountryStateZip.Fields.StateProvince">
+    <Value>State / province</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Tax.CountryStateZip.Fields.StateProvince.Hint">
+    <Value>If an asterisk is selected, then this tax rate will apply to all customers from the given country, regardless of the state.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Tax.CountryStateZip.Fields.Store">
+    <Value>Store</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Tax.CountryStateZip.Fields.Store.Hint">
+    <Value>If an asterisk is selected, then this shipping rate will apply to all stores.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Tax.CountryStateZip.Fields.TaxCategory">
+    <Value>Tax category</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Tax.CountryStateZip.Fields.TaxCategory.Hint">
+    <Value>The tax category.</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Tax.CountryStateZip.Fields.Zip">
+    <Value>Zip</Value>
+  </LocaleResource>
+  <LocaleResource Name="Plugins.Tax.CountryStateZip.Fields.Zip.Hint">
+    <Value>Zip / postal code. If zip is empty, then this tax rate will apply to all customers from the given country or state, regardless of the zip code.</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Tax.FixedRate.Fields.Rate">
     <Value>Rate</Value>
@@ -13273,7 +13917,8 @@
     <Value>Search term minimum length is {0} characters</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.CloudZoom">
     <Value>Nop Cloud Zoom</Value>
@@ -13459,16 +14104,14 @@
     <Value>If the product does not match any condition groups, then this determines whether the attachment will be shown on the product. Almost always select "Fail" unless you want to show on every product.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Conditions.Admin.Condition.Description">
-    <Value>
-      With conditions you can filter the products for which this attachment will be shown.&lt;br/&gt;
-      The conditions consist of &lt;strong&gt;Condition Groups&lt;/strong&gt;. &lt;br/&gt;
-      The &lt;strong&gt;Default State&lt;/strong&gt; is also considered as a condition group. &lt;br/&gt;
-      A Condition Group consists of one or many &lt;strong&gt;Condition Statements&lt;/strong&gt; (rules).&lt;br/&gt;
-      The dependancy between the Condition Groups is &lt;strong&gt;OR&lt;/strong&gt; and between the Condition Statements is &lt;strong&gt;AND&lt;/strong&gt;. This means that if all of the Condition Statements in one Condition Group are true for a product, the attachment will be displayed over that product.&lt;br/&gt;
-      To add a Condition Group you need to click on the &lt;strong&gt;Add Condition Group&lt;/strong&gt; button.
-      To delete a Condition Group you need to click on the &lt;strong&gt;Delete&lt;/strong&gt; button.
-      To add a Condition Statement to the Condition Group, you need to click on the &lt;strong&gt;Add new record&lt;/strong&gt; button.
-    </Value>
+    <Value>With conditions you can filter the products for which this attachment will be shown.&lt;br/&gt;
+                      The conditions consist of &lt;strong&gt;Condition Groups&lt;/strong&gt;. &lt;br/&gt;
+                      The &lt;strong&gt;Default State&lt;/strong&gt; is also considered as a condition group. &lt;br/&gt;
+                      A Condition Group consists of one or many &lt;strong&gt;Condition Statements&lt;/strong&gt; (rules).&lt;br/&gt;
+                      The dependancy between the Condition Groups is &lt;strong&gt;OR&lt;/strong&gt; and between the Condition Statements is &lt;strong&gt;AND&lt;/strong&gt;. This means that if all of the Condition Statements in one Condition Group are true for a product, the attachment will be displayed over that product.&lt;br/&gt;
+                      To add a Condition Group you need to click on the &lt;strong&gt;Add Condition Group&lt;/strong&gt; button.
+                      To delete a Condition Group you need to click on the &lt;strong&gt;Delete&lt;/strong&gt; button.
+                      To add a Condition Statement to the Condition Group, you need to click on the &lt;strong&gt;Add new record&lt;/strong&gt; button.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Conditions.Admin.Condition.TabTitle">
     <Value>Conditions</Value>
@@ -13477,7 +14120,8 @@
     <Value>You need to Save before you can add conditions.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Conditions.Admin.CustomerOverrides">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Conditions.Admin.CustomerOverrides.AddNew">
     <Value>Add a new customer</Value>
@@ -13501,7 +14145,8 @@
     <Value>You need to Save before you can add customer overrides.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Conditions.Admin.ProductOverrides">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Conditions.Admin.ProductOverrides.AddNew">
     <Value>Add a new product</Value>
@@ -13606,7 +14251,8 @@
     <Value>Settings</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.InstantSearch.Public">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.InstantSearch.Public.AllCategories">
     <Value>All</Value>
@@ -13657,7 +14303,8 @@
     <Value>JCarousel successfully created.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.JCarousel.Admin.DataSourceTypes">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.JCarousel.Admin.DataSourceTypes.AlsoPurchasedProducts">
     <Value>Also Purchased Products</Value>
@@ -14134,7 +14781,8 @@
     <Value>Choose a template for the categories in the MegaMenu. This template defines how the categories and their subcategories will be displayed.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Settings.MegaMenuCategoryTemplates">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Settings.MegaMenuCategoryTemplates.CategoryMenuTemplate.InfiniteCategories">
     <Value>Infinite categories sublist</Value>
@@ -14152,7 +14800,8 @@
     <Value>Choose a template for the manufacturers in the MegaMenu. This template defines how the manufacturers will be displayed.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Settings.MegaMenuManufacturerTemplates">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Settings.MegaMenuManufacturerTemplates.ManufacturerMenuTemplate.WithoutPictures">
     <Value>Manufacturers in list</Value>
@@ -14617,10 +15266,12 @@
     <Value>The names of the widget zone in which the Ajax Filters can be added. NOTE: The Ajax Filters can be added only to one widget zone.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopAjaxFilters.Client">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopAjaxFilters.Client.Common">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopAjaxFilters.Client.Common.All">
     <Value>All</Value>
@@ -14641,7 +15292,8 @@
     <Value>NO RESULTS FOUND</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopAjaxFilters.Client.PriceRangeFilter">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopAjaxFilters.Client.PriceRangeFilter.Max">
     <Value>Max</Value>
@@ -14686,19 +15338,22 @@
     <Value>View tab</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.ProductTabs">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.ProductTabs.AddNew">
     <Value>Add a new Tab</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.ProductTabs.AddNewTabPopup">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.ProductTabs.AddNewTabPopup.AddNew">
     <Value>Add A New Tab</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.ProductTabs.Fields">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.ProductTabs.Fields.DisplayOrder">
     <Value>Display order</Value>
@@ -14731,7 +15386,8 @@
     <Value>Tabs</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.ActivityLog">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.ActivityLog.AddNewTab">
     <Value>New tab added</Value>
@@ -14767,7 +15423,8 @@
     <Value>Edit tab details</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.Fields">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.Fields.Description">
     <Value>Description</Value>
@@ -14815,7 +15472,8 @@
     <Value>You need to save the tab before you can map it to manufacturers.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.Notifications">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.Notifications.Added">
     <Value>Tab successfully added</Value>
@@ -14839,7 +15497,8 @@
     <Value>You need to save the tab before you can map it to products.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.Settings">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.Settings.AjaxSettings">
     <Value>Ajax Settings</Value>
@@ -14932,13 +15591,16 @@
     <Value>You need to save the tab before you can limit it to Stores.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Client">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Client.Tabs">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Client.Tabs.ContactUs">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Client.Tabs.ContactUs.EmailSubject">
     <Value>Product Enquiry</Value>
@@ -14965,13 +15627,15 @@
     <Value>Specifications</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders">
     <Value>Sliders</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Carousel3DSettings">
     <Value>Carousel 3D Settings</Value>
@@ -15103,7 +15767,8 @@
     <Value>General Settings</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.NivoSettings">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.NivoSettings.AdvancedSettings">
     <Value>Advanced Settings</Value>
@@ -15247,7 +15912,8 @@
     <Value>The width of the slider panel. Note: use images with the same width.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider.AddNew">
     <Value>Add new slider</Value>
@@ -15262,7 +15928,8 @@
     <Value>The categories to which the sliders is mapped.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider.CategoriesTab">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider.CategoriesTab.HowMappingWorks">
     <Value>You can map this slider to several categories. Note: When a slider is mapped to a category then it will be shown only on the page for the category.</Value>
@@ -15307,7 +15974,8 @@
     <Value>The manufacturers to which the sliders is mapped.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider.ManufacturersTab">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider.ManufacturersTab.HowMappingWorks">
     <Value>You can map this slider to several manufacturers. Note: When a slider is mapped to a manufacturer then it will be shown only on the page for the manufacturer.</Value>
@@ -15316,7 +15984,8 @@
     <Value>You need to save the slider before you can add manufacturer mappings.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider.Settings">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider.Settings.Title">
     <Value>Slider Settings</Value>
@@ -15334,7 +16003,8 @@
     <Value>The system name of the slider. It is not visible in the public area. It is used when calling a slider in manual integration. The value of the 'systemName' argument.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider.TabTitle">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider.TabTitle.Categories">
     <Value>Categories</Value>
@@ -15373,7 +16043,8 @@
     <Value>The names of the widget zone in which the slider is added.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.SliderImage">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.SliderImage.AddNew">
     <Value>Add a new slider image</Value>
@@ -15451,7 +16122,8 @@
     <Value>Manage Sliders</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Widget">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Widget.AddSlider">
     <Value>Add the slider to new widget zone</Value>
@@ -15487,7 +16159,8 @@
     <Value>The widget zone to which the slider will be added.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Fields">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Fields.IsRequired">
     <Value>Field is required</Value>
@@ -15652,11 +16325,9 @@
     <Value>Small product picture ribbon</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.Settings.ProductRibbon.CategoryPageRibbon.CategoryPageRibbonSettings">
-    <Value>
-      Specify the settings for the ribbon shown on the small (thumbnail) product picture.&lt;br/&gt;
-      The small (thumbnail) product pictures are used for the products (product boxes) on the followings:&lt;br/&gt;
-      catalog and manufacturer pages, related products, also purchased products, home page products, recently viewed products etc.
-    </Value>
+    <Value>Specify the settings for the ribbon shown on the small (thumbnail) product picture.&lt;br/&gt;
+                            The small (thumbnail) product pictures are used for the products (product boxes) on the followings:&lt;br/&gt; 
+                            catalog and manufacturer pages, related products, also purchased products, home page products, recently viewed products etc.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.Settings.ProductRibbon.Condition">
     <Value>Conditions</Value>
@@ -15665,16 +16336,14 @@
     <Value>Add Condition Group</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.Settings.ProductRibbon.Condition.Description">
-    <Value>
-      With conditions you can filter the products for which this ribbon will be shown.&lt;br/&gt;
-      The conditions consist of &lt;strong&gt;Condition Groups&lt;/strong&gt;. &lt;br/&gt;
-      The &lt;strong&gt;Default State&lt;/strong&gt; is also considered as a condition group. &lt;br/&gt;
-      A Condition Group consists of one or many &lt;strong&gt;Condition Statements&lt;/strong&gt; (rules).&lt;br/&gt;
-      The dependancy between the Condition Groups is &lt;strong&gt;OR&lt;/strong&gt; and between the Condition Statements is &lt;strong&gt;AND&lt;/strong&gt;. This means that if all of the Condition Statements in one Condition Group are true for a product, the ribbon will be displayed over that product.&lt;br/&gt;
-      To add a Condition Group you need to click on the &lt;strong&gt;Add Condition Group&lt;/strong&gt; button.
-      To delete a Condition Group you need to click on the &lt;strong&gt;Delete&lt;/strong&gt; button.
-      To add a Condition Statement to the Condition Group, you need to click on the &lt;strong&gt;Add new record&lt;/strong&gt; button.
-    </Value>
+    <Value>With conditions you can filter the products for which this ribbon will be shown.&lt;br/&gt; 
+                              The conditions consist of &lt;strong&gt;Condition Groups&lt;/strong&gt;. &lt;br/&gt;
+                              The &lt;strong&gt;Default State&lt;/strong&gt; is also considered as a condition group. &lt;br/&gt;
+                              A Condition Group consists of one or many &lt;strong&gt;Condition Statements&lt;/strong&gt; (rules).&lt;br/&gt;
+                              The dependancy between the Condition Groups is &lt;strong&gt;OR&lt;/strong&gt; and between the Condition Statements is &lt;strong&gt;AND&lt;/strong&gt;. This means that if all of the Condition Statements in one Condition Group are true for a product, the ribbon will be displayed over that product.&lt;br/&gt;
+                              To add a Condition Group you need to click on the &lt;strong&gt;Add Condition Group&lt;/strong&gt; button.
+                              To delete a Condition Group you need to click on the &lt;strong&gt;Delete&lt;/strong&gt; button.
+                              To add a Condition Statement to the Condition Group, you need to click on the &lt;strong&gt;Add new record&lt;/strong&gt; button.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.Settings.ProductRibbon.PageRibbon">
     <Value>Page Ribbon</Value>
@@ -15683,11 +16352,9 @@
     <Value>Ribbon style</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.Settings.ProductRibbon.PageRibbon.ContainerStyle.Hint">
-    <Value>
-      Here you can specify css styles that will be applied only to the ribbon html element. &lt;br/&gt;
-      The ribbon html element is the main html element for the ribbon that wraps the ribbon image and the ribbon text elements.&lt;br/&gt;
-      It has a css class name - 'product-ribbon'. Example styles: top: -5px; left:-5px;
-    </Value>
+    <Value>Here you can specify css styles that will be applied only to the ribbon html element. &lt;br/&gt;
+                                The ribbon html element is the main html element for the ribbon that wraps the ribbon image and the ribbon text elements.&lt;br/&gt;
+                                It has a css class name - 'product-ribbon'. Example styles: top: -5px; left:-5px;</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.Settings.ProductRibbon.PageRibbon.Enabled">
     <Value>Enabled</Value>
@@ -15699,47 +16366,37 @@
     <Value>Ribbon image style</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.Settings.ProductRibbon.PageRibbon.ImageStyle.Hint">
-    <Value>
-      Here you can specify css styles that will be applied only to the ribbon image (img) element.&lt;br/&gt;
-      The ribbon image html element is nested inside the ribbon element.
-    </Value>
+    <Value>Here you can specify css styles that will be applied only to the ribbon image (img) element.&lt;br/&gt; 
+                                The ribbon image html element is nested inside the ribbon element.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.Settings.ProductRibbon.PageRibbon.Position">
     <Value>Position</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.Settings.ProductRibbon.PageRibbon.Position.Hint">
-    <Value>
-      The default location where the ribbon will appear relative to the picture of the product.&lt;br/&gt;
-      You can customize further with the styles below if needed.
-    </Value>
+    <Value>The default location where the ribbon will appear relative to the picture of the product.&lt;br/&gt;
+                                You can customize further with the styles below if needed.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.Settings.ProductRibbon.PageRibbon.Text">
     <Value>Text</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.Settings.ProductRibbon.PageRibbon.Text.Hint">
-    <Value>
-      Specify the text of the ribbon. This text will appear over the product image. &lt;br/&gt;
-      Leave empty if you use a ribbon picture that contains text. &lt;br/&gt;
-      You can use the Available Product Tokens here i.e "${max-discount-percentage} OFF" or "-${max-discount-percentage}"
-    </Value>
+    <Value>Specify the text of the ribbon. This text will appear over the product image. &lt;br/&gt;
+                                Leave empty if you use a ribbon picture that contains text. &lt;br/&gt;
+                                You can use the Available Product Tokens here i.e "${max-discount-percentage} OFF" or "-${max-discount-percentage}"</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.Settings.ProductRibbon.PageRibbon.TextStyle">
     <Value>Ribbon text style</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.Settings.ProductRibbon.PageRibbon.TextStyle.Hint">
-    <Value>
-      Here you can specify css styles that will be applied only to the ribbon text (label) element.&lt;br/&gt;
-      The ribbon text is an label html element that is nested inside the ribbon element.
-    </Value>
+    <Value>Here you can specify css styles that will be applied only to the ribbon text (label) element.&lt;br/&gt; 
+                                The ribbon text is an label html element that is nested inside the ribbon element.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.Settings.ProductRibbon.ProductPageRibbon">
     <Value>Big product picture ribbon</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.Settings.ProductRibbon.ProductPageRibbon.ProductPageRibbonSettings">
-    <Value>
-      Specify the settings for the ribbon shown on the big product picture.&lt;br/&gt;
-      The big product picture is the one on the product page.
-    </Value>
+    <Value>Specify the settings for the ribbon shown on the big product picture.&lt;br/&gt;
+                              The big product picture is the one on the product page.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.Settings.ProductRibbon.ProductRibbonGeneralInformation">
     <Value>General Information</Value>
@@ -15796,7 +16453,8 @@
     <Value>You need to save this product ribbon, before you can limit it to stores.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.SpecialPriceTokenExpiresIn">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.SpecialPriceTokenExpiresIn.Days">
     <Value>days</Value>
@@ -15850,11 +16508,9 @@
     <Value>Accordion panels height style</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.QuickView.Admin.Settings.AccordionPanelsHeightStyle.Hint">
-    <Value>
-      "auto" - All panels will be set to the height of the tallest panel.&lt;br/&gt;
-      "fill" - Expand to the available height based on the accordion's parent height.&lt;br/&gt;
-      "content" - Each panel will be only as tall as its content.
-    </Value>
+    <Value>"auto" - All panels will be set to the height of the tallest panel.&lt;br/&gt;
+                          "fill" - Expand to the available height based on the accordion's parent height.&lt;br/&gt;
+                          "content" - Each panel will be only as tall as its content.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.QuickView.Admin.Settings.Common">
     <Value>Nop Quick View Settings</Value>
@@ -16055,13 +16711,16 @@
     <Value>The schedule pattern</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.Admin">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.Admin.Settings">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.Admin.Settings.CustomHeadStyles">
     <Value>Custom Head Styles</Value>
@@ -16103,7 +16762,8 @@
     <Value>Settings</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.Common">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.Common.BackSublist">
     <Value>Back</Value>
@@ -16121,10 +16781,12 @@
     <Value>Personal menu</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.NeoFashion">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.NeoFashion.Admin">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.NeoFashion.Admin.Settings">
     <Value>Settings</Value>
@@ -16139,7 +16801,8 @@
     <Value>Enable product image roll over functionality on hover.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.NeoFashion.Common">
-    <Value />
+    <Value>
+    </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.NeoFashion.Common.CompanyInfo">
     <Value>Company info</Value>
@@ -16147,11 +16810,11 @@
   <LocaleResource Name="SevenSpikes.Themes.NeoFashion.Common.CustomerServices">
     <Value>Customer services</Value>
   </LocaleResource>
-  <LocaleResource Name="SevenSpikes.Themes.NeoFashion.Common.EmailDomain">
-    <Value>shop.com</Value>
+  <LocaleResource Name="sevenspikes.themes.neofashion.common.emaildomain">
+    <Value>frutafrescavirtual.com</Value>
   </LocaleResource>
-  <LocaleResource Name="SevenSpikes.Themes.NeoFashion.Common.EmailName">
-    <Value>seller</Value>
+  <LocaleResource Name="sevenspikes.themes.neofashion.common.emailname">
+    <Value>servicioalcliente</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.NeoFashion.Common.FAQ">
     <Value>FAQ</Value>
@@ -16168,8 +16831,8 @@
   <LocaleResource Name="SevenSpikes.Themes.NeoFashion.Common.MenuTitle">
     <Value>menu</Value>
   </LocaleResource>
-  <LocaleResource Name="SevenSpikes.Themes.NeoFashion.Common.Phone">
-    <Value>+444 (100) 1234</Value>
+  <LocaleResource Name="sevenspikes.themes.neofashion.common.phone">
+    <Value>444 0101 (Medellín) - 01 8000 417 7777 (Colombia)</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.ProductCompareName">
     <Value>Name</Value>
@@ -16566,35 +17229,5 @@
   </LocaleResource>
   <LocaleResource Name="Wishlist.YourWishlistURL">
     <Value>Your wishlist URL for sharing</Value>
-  </LocaleResource>
-  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.StoreName">
-    <Value>Store Name</Value>
-  </LocaleResource>
-  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.URL">
-    <Value>URL Payment Button</Value>
-  </LocaleResource>
-  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.IDStore">
-    <Value>Unique ID</Value>
-  </LocaleResource>
-  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.IDKey">
-    <Value>WebService Password</Value>
-  </LocaleResource>
-  <LocaleResource Name="plugins.payments.zonavirtual.fields.storename.hint">
-    <Value>The name of the Store for Zona Virtual</Value>
-  </LocaleResource>
-  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.URL.hint">
-    <Value>URL provided for Zona Virtual</Value>
-  </LocaleResource>
-  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.IDStore.hint">
-    <Value>Id provided for Zona Virtual</Value>
-  </LocaleResource>
-  <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.IDKey.hint">
-    <Value>Password provided for Zona Virtual</Value>
-  </LocaleResource>
- <LocaleResource Name="Plugins.Shipping.StoresPickup.Fields.stores">
-    <Value>Stores</Value>
-  </LocaleResource>
-<LocaleResource Name="Plugins.Shipping.StoresPickup.Fields.Stores.hint">
-    <Value>Your store list separated by semicolon (e.g. store 1; store 2;…)</Value>
   </LocaleResource>
 </Language>
