@@ -984,7 +984,7 @@
     <Value>Órdenes de filiales</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Orders.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Affiliates.Orders.Order">
     <Value>Nro de Orden</Value>
@@ -1377,7 +1377,7 @@
     <Value>Elija una plantilla de categoría. Esta plantilla define como se visualiza esta categoría (y sus productos).</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Categories.Fields.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Categories.Fields.Deleted">
     <Value>Suprimido</Value>
@@ -1572,7 +1572,7 @@
     <Value>Selecciona las tiendas donde se mostrará la marca.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Manufacturers.Fields.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Manufacturers.Fields.Deleted">
     <Value>Suprimido</Value>
@@ -1722,7 +1722,7 @@
     <Value>Edición de productos Detalles de la opinión</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Fields.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Fields.CreatedOn.Hint">
     <Value>La fecha/hora de creación de la revisión.</Value>
@@ -1980,7 +1980,7 @@
     <Value>Marque para mostrar el mensaje "Llame para consultar precio" o "Llame para cotizar" en lugar del precio.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.CreatedOn.Hint">
     <Value>Fecha y hora en que este producto fue creado.</Value>
@@ -3252,7 +3252,7 @@
     <Value>Selecciona las tiendas en las que se mostrará la moneda.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Currencies.Fields.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Currencies.Fields.CreatedOn.Hint">
     <Value>Se creo la fecha/hora de la moneda.</Value>
@@ -6000,7 +6000,7 @@
     <Value>Ver los comentarios</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Fields.EndDate">
     <Value>Fecha de finalización</Value>
@@ -6084,7 +6084,7 @@
     <Value>Comentario</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Blog.Comments.Fields.Customer">
     <Value>Cliente</Value>
@@ -6111,7 +6111,7 @@
     <Value>Editar detalles del foro</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Forums.Forum.Fields.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Forums.Forum.Fields.Description">
     <Value>Descripción</Value>
@@ -6165,7 +6165,7 @@
     <Value>Editar Foro Detalles del grupo</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Forums.ForumGroup.Fields.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Forums.ForumGroup.Fields.DisplayOrder">
     <Value>Visualizar Orden</Value>
@@ -6291,7 +6291,7 @@
     <Value>Título del comentario</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.News.Comments.Fields.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.News.Comments.Fields.Customer">
     <Value>Cliente</Value>
@@ -6333,7 +6333,7 @@
     <Value>Ver los comentarios</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.News.NewsItems.Fields.EndDate">
     <Value>Fecha de finalización</Value>
@@ -6894,7 +6894,7 @@
     <Value>Comentario</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.ActivityLog.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Added">
     <Value>El nuevo cliente ha sido agregado con éxito.</Value>
@@ -7008,7 +7008,7 @@
     <Value>El país.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.CreatedOn.Hint">
     <Value>La fecha en que se creó el registro del cliente.</Value>
@@ -7272,7 +7272,7 @@
     <Value>órdenes</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Orders.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Orders.ID">
     <Value>ID del pedido</Value>
@@ -7785,7 +7785,7 @@
     <Value>El tipo de tarjeta utilizada en la transacción.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Fields.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Fields.CreatedOn.Hint">
     <Value>La fecha/hora se realizó el pedido/creado.</Value>
@@ -8163,7 +8163,7 @@
     <Value>Agregar nota de pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.OrderNotes.Fields.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.OrderNotes.Fields.DisplayToCustomer">
     <Value>Mostrar al cliente</Value>
@@ -8547,7 +8547,7 @@
     <Value>Se requiere Cuerpo</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Promotions.Campaigns.Fields.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Promotions.Campaigns.Fields.Name">
     <Value>Nombre</Value>
@@ -8844,7 +8844,7 @@
     <Value>Cancelar pago recurrente</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.RecurringPayments.History.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.RecurringPayments.History.NextPaymentDate">
     <Value>Próxima fecha de pago</Value>
@@ -9120,7 +9120,7 @@
     <Value>Eliminar seleccionados</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Log.Fields.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Log.Fields.CreatedOn.Hint">
     <Value>Fecha/Hora se creó la entrada de registro.</Value>
@@ -9297,7 +9297,7 @@
     <Value>Dirección Cc.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.QueuedEmails.Fields.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.QueuedEmails.Fields.CreatedOn.Hint">
     <Value>Mensaje de Fecha/Hora agregado a la cola.</Value>
@@ -10143,7 +10143,7 @@
     <Value>Introduzca comentario</Value>
   </LocaleResource>
   <LocaleResource Name="Blog.Comments.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Blog.Comments.LeaveYourComment">
     <Value>Deja tu comentario</Value>
@@ -10627,7 +10627,7 @@
     <Value>Seguimiento de inventario por atributos de producto</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.NameAsc">
     <Value>Nombre: A a la Z</Value>
@@ -12056,7 +12056,7 @@
     <Value>Escriba Título del comentario</Value>
   </LocaleResource>
   <LocaleResource Name="News.Comments.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="News.Comments.LeaveYourComment">
     <Value>Deja tu comentario</Value>
@@ -12481,7 +12481,7 @@
     <Value>Empresa: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="PDFInvoice.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="PDFInvoice.Discount">
     <Value>Descuento:</Value>
@@ -12508,7 +12508,7 @@
     <Value>Notas de la orden:</Value>
   </LocaleResource>
   <LocaleResource Name="PDFInvoice.OrderNotes.CreatedOn">
-    <Value>Fabricado en</Value>
+    <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="PDFInvoice.OrderNotes.Note">
     <Value>Nota</Value>
