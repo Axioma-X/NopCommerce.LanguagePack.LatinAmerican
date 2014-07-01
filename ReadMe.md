@@ -7,10 +7,36 @@ Author v3.20: [Fernando Caivano](http://www.nopcommerce.com/profile.aspx?userid=
 Author v3.10: [varatayo](http://www.nopcommerce.com/profile.aspx?userid=85808)
 
 
+
 ## Versions
 - nopCommerce 3.30
 - nopCommerce 3.20
 - nopCommerce 3.10
+
+
+
+## Plugins with translation
+1. Seven Spikes Core
+2. Nop Ajax Cart
+3. Nop Ajax Filters
+4. Nop Anywhere Sliders
+5. Nop Cloud Zoom
+6. Nop Html Widgets
+7. Nop Instant Search
+8. Nop JCarousel
+9. Nop Mega Menu
+10. Nop Product Ribbons
+11. Nop Quick Tabs
+12. Nop Quick View
+13. Nop NeoFashion Theme
+14. FoxNetSoft Contents
+15. FoxNetSoft MSSQLProvider
+16. FoxNetSoft SpeedFilters
+17. MailChimp e-mail synchronization
+18. Zona Virtual Colombia
+19. Stores Pickup
+
+
 
 
 ### How to Use in your NopCommerce Store
