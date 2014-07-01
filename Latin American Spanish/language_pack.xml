@@ -1290,7 +1290,7 @@
     <Value>Nombre</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.BulkEdit.Fields.OldPrice">
-    <Value>Precio nuevo</Value>
+    <Value>Precio anterior</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.BulkEdit.Fields.Price">
     <Value>Precio</Value>
@@ -2208,7 +2208,7 @@
     <Value>Cuando la cantidad actual de la acción cae por debajo de esta cantidad, el tendero (admin) recibirá una notificación.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.OldPrice">
-    <Value>Precio nuevo</Value>
+    <Value>Precio anterior</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.OldPrice.Hint">
     <Value>El precio anterior del producto. Si se establece un precio de edad, este se mostrará junto con el precio actual en la página de producto para demostrar la diferencia de precio.</Value>
@@ -13609,7 +13609,7 @@
     <Value>Precio</Value>
   </LocaleResource>
   <LocaleResource Name="Products.Price.OldPrice">
-    <Value>Precio nuevo</Value>
+    <Value>Precio anterior</Value>
   </LocaleResource>
   <LocaleResource Name="Products.Price.TaxShipping.ExclTax">
     <Value>Excluir &lt;a href="{0}"&gt;envio&lt;/a&gt;</Value>
