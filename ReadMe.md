@@ -91,6 +91,8 @@ Si desea la tienda sólo en español:
 
 
 ## Historia
+**2014 07 06:** Se corrige "Vendor" que estaba como "Proveedor" y es "Vendedor", además de otras correcciones menores
+
 **2014 07 01:** Últimas adecuaciones para compartirlo
 
 **2014 05 30:** Adición de Traducciones de Plugins Seve Spikes, Fox Net Soft

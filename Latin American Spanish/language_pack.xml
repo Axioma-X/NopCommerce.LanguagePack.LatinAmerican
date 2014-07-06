@@ -413,7 +413,7 @@
     <Value>Soy Cliente</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.Unsuccessful">
-    <Value>Login no tuvo éxito. Por favor corrija los errores e inténtelo de nuevo.</Value>
+    <Value>El Login no tuvo éxito. Por favor corrije los errores e inténtalo de nuevo.</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.Welcome">
     <Value>Registrar</Value>
@@ -2388,7 +2388,7 @@
     <Value>Vendedor</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.Vendor.Hint">
-    <Value>Elija un proveedor de este producto. Esto puede ser Útil si usted está utilizando la funcionalidad multi-vendor.</Value>
+    <Value>Elija un vendedor de este producto. Esto será útil si estás utilizando la funcionalidad multi-vendor.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.Vendor.None">
     <Value>Ningún vendedor</Value>
@@ -2478,7 +2478,7 @@
     <Value>Vendedor</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.List.SearchVendor.Hint">
-    <Value>Buscar un proveedor específico.</Value>
+    <Value>Buscar un vendedor específico.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.List.SearchWarehouse">
     <Value>Almacenes</Value>
@@ -4545,7 +4545,7 @@
     <Value>'Los nombres de usuario' Activado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.UsernamesEnabled.Hint">
-    <Value>Marque para utilizar nombres de usuario en el inicio de sesión/registro en lugar de emails. ADVERTENCIA: No se recomienda cambiar en el entorno de producción.</Value>
+    <Value>Marca para usar los nombres de usuario para el login y el registro en lugar de los emails. ADVERTENCIA: No se recomienda cambiar si estás en producción.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.CustomerUser.UserRegistrationType">
     <Value>Método de registro</Value>
@@ -4746,10 +4746,10 @@
     <Value>Marque para mostrar el CAPTCHA en la página 'compartir mi lista de deseos a un amigo'.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnLoginPage">
-    <Value>Mostrar en la página de inicio de sesión</Value>
+    <Value>Mostrar en la página de login</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnLoginPage.Hint">
-    <Value>Marque para mostrar el CAPTCHA en la página de login.</Value>
+    <Value>Marca para mostrar el CAPTCHA en la página de login.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnNewsCommentPage">
     <Value>Mostrar en la página de noticias (Comentarios)</Value>
@@ -5163,7 +5163,7 @@
     <Value>Anónimo checkout permitido</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Order.AnonymousCheckoutAllowed.Hint">
-    <Value>Marcar para habilitar anónimos Caja (los clientes no están obligados a Iniciar sesión/Registro en la compra de productos)</Value>
+    <Value>Marca para habilitar el proceso de compra a usuarios anónimos (los clientes no están obligados a hacer login y registro en la compra de productos)</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Order.AttachPdfInvoiceToOrderCompletedEmail">
     <Value>Adjunte la factura PDF (email "pedido completado")</Value>
@@ -5667,16 +5667,16 @@
     <Value>Preferencias del Vendedor</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Vendor.ShowVendorOnProductDetailsPage">
-    <Value>Mostrar proveedor en la página los detalles del producto</Value>
+    <Value>Mostrar el vendedor en la página de detalles del producto</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Vendor.ShowVendorOnProductDetailsPage.Hint">
-    <Value>Compruebe para mostrar un nombre de proveedor en la página de detalles de producto (si se asocia)</Value>
+    <Value>Marque para mostrar el nombre del vendedor en la página de detalles de producto (si está asociado)</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Vendor.VendorsBlockItemsToDisplay">
-    <Value>Número de proveedores para mostrar</Value>
+    <Value>Número de vendedores a mostrar</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Vendor.VendorsBlockItemsToDisplay.Hint">
-    <Value>Introduzca el número de vendedores para mostrar en el bloque de navegación vendedor.</Value>
+    <Value>Ingresa el número de vendedores a mostrar en el bloque de navegación de vendedores.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Shipping">
     <Value>Envío</Value>
@@ -5832,7 +5832,7 @@
     <Value>Proveedores de SMS</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.SMSProviders.BackToList">
-    <Value>volver a la lista de proveedor de SMS</Value>
+    <Value>volver a la lista de proveedores de SMS</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.SMSProviders.Configure">
     <Value>Configurar</Value>
@@ -5931,7 +5931,7 @@
     <Value>Proveedores de Impuestos</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Tax.Providers.BackToList">
-    <Value>Volver a la lista proveedor de impuestos</Value>
+    <Value>volver a la lista de proveedores de impuestos</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Tax.Providers.Configure">
     <Value>Configurar</Value>
@@ -5940,10 +5940,10 @@
     <Value>Nombre descriptivo</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Tax.Providers.Fields.IsPrimaryTaxProvider">
-    <Value>Es el principal proveedor</Value>
+    <Value>Es un proveedor primario</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Tax.Providers.Fields.MarkAsPrimaryProvider">
-    <Value>Marcar como principal proveedor</Value>
+    <Value>Marcar como vendedor principal</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Tax.Providers.Fields.SystemName">
     <Value>Nombre del sistema</Value>
@@ -6924,7 +6924,7 @@
     <Value>La dirección se ha actualizado correctamente.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.AdminCouldNotbeVendor">
-    <Value>Un cliente asociado a un vendedor no puede tener rol de "Administrador".</Value>
+    <Value>Un cliente con un vendedor asociado no puede tener rol de "Administrador".</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.AssociatedExternalAuth">
     <Value>Autenticación externa</Value>
@@ -6945,7 +6945,7 @@
     <Value>Volver a la lista del cliente</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.CannotBeInVendoRoleWithoutVendorAssociated">
-    <Value>Un cliente en el rol de vendedor debe tener una cuenta de asociada.</Value>
+    <Value>Un cliente con el rol de vendedor debe tener una cuenta de asociada de vendedor.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.CurrentShoppingCart">
     <Value>Carrito actual</Value>
@@ -7176,13 +7176,13 @@
     <Value>Estado: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.Vendor">
-    <Value>Gerente del proveedor</Value>
+    <Value>Gerente del vendedor</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.Vendor.Hint">
-    <Value>Elija un proveedor asociado a esta cuenta. Cuando se asocia a este cliente será capaz de iniciar sesión en el portal de proveedores elegidos y gestionar sus productos y pedidos.</Value>
+    <Value>Elija un vendedor asociado para esta cuenta. Cuando lo asocias a este cliente serás capaz de iniciar sesión en el portal del vendedor y gestionar sus productos y pedidos.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.Vendor.None">
-    <Value>No es un proveedor</Value>
+    <Value>No es un vendedor</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.Fields.ZipPostalCode">
     <Value>Código Postal</Value>
@@ -7368,7 +7368,7 @@
     <Value>El cliente ha sido actualizado correctamente.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.VendorShouldBeInVendorsRole">
-    <Value>Nota: si usted tiene un proveedor asociado con este cliente, y luego asegurarse que también está en función del cliente "Proveedores".</Value>
+    <Value>Nota: Si tienes un vendedor asociado a este cliente, asegúrate que también tenga el rol de "Vendedor".</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Guest">
     <Value>Invitado</Value>
@@ -8151,7 +8151,7 @@
     <Value>Vendedor</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.List.Vendor.Hint">
-    <Value>Buscar un proveedor específico. Verás pedidos con productos de un proveedor especificado.</Value>
+    <Value>Buscar por un vendedor específico. Verás los pedidos con productos del vendedor especificado.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.OrderNotes">
     <Value>Notas de pedido</Value>
@@ -9984,13 +9984,13 @@
     <Value>Los vendedores</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Added">
-    <Value>El nuevo proveedor se ha agregado.</Value>
+    <Value>El nuevo vendedor se ha agregado.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.AddNew">
-    <Value>Agregar un nuevo proveedor</Value>
+    <Value>Agregar un nuevo vendedor</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.BackToList">
-    <Value>Volver a la lista de proveedores</Value>
+    <Value>Volver a la lista de vendedores</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Deleted">
     <Value>El vendedor se ha eliminado correctamente.</Value>
@@ -10002,7 +10002,7 @@
     <Value>Activo</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.Active.Hint">
-    <Value>Un valor que indica si el proveedor está activo.</Value>
+    <Value>Un valor que indica si el vendedor está activo.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.AdminComment">
     <Value>Comentario del administrador</Value>
@@ -10023,7 +10023,7 @@
     <Value>Una lista de las cuentas de los clientes que podrían ser utilizadas para gestionar los productos y las órdenes de este vendedor (tener acceso al portal de vendedores). Se puede asociar a los clientes a un vendedor en una página de detalles del cliente. Si no desea que el vendedor tenga acceso al portal de vendedores no asocie ninguna cuenta de cliente con él. </Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.AssociatedCustomerEmails.None">
-    <Value>No cuenta asociada a este vendedor.</Value>
+    <Value>No hay una cuenta asociada a este vendedor.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.Description">
     <Value>Descripción</Value>
@@ -10050,25 +10050,25 @@
     <Value>Meta descripción</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.MetaDescription.Hint">
-    <Value>Meta descripción que se añade a cabecera de la página de proveedores.</Value>
+    <Value>Meta descripción a añadir a la cabecera de la página del vendedor.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.MetaKeywords">
     <Value>Meta palabras clave</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.MetaKeywords.Hint">
-    <Value>Meta palabras clave que se añade a cabecera de la página de proveedores.</Value>
+    <Value>Meta palabras clave a añadir a la cabecera de la página del vendedor.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.MetaTitle">
     <Value>Título Meta</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.MetaTitle.Hint">
-    <Value>Reemplace el título de la página. El valor predeterminado es el nombre del proveedor.</Value>
+    <Value>Reemplace el título de la página. El valor predeterminado es el nombre del vendedor.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.Name">
     <Value>Nombre</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.Name.Hint">
-    <Value>El nombre del proveedor.</Value>
+    <Value>El nombre del vendedor.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.Name.Required">
     <Value>Por favor proporcione un nombre.</Value>
@@ -10077,7 +10077,7 @@
     <Value>Tamaño de página</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.PageSize.Hint">
-    <Value>Ajuste la cantidad de productos por página de este proveedor por ejemplo '4' Productos por página.</Value>
+    <Value>Establezca la cantidad de productos por página de este vendedor. Por ejemplo '4' productos por página.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.PageSizeOptions">
     <Value>Opciones de tamaño de página (separadas por comas)</Value>
@@ -10089,10 +10089,10 @@
     <Value>Los motores de búsqueda del nombre de la página</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Fields.SeName.Hint">
-    <Value>Establezca un motor de búsqueda, por ejemplo, nombre de la página 'the-best-vendor' para hacer que su página de URL 'http://www.yourStore.com/the-best-vendor'. Dejar en blanco para generar de forma automática basándose en el nombre del proveedor.</Value>
+    <Value>Establezca un nombre amigable para la página para los buscadores, por ejemplo, 'el-mejor-vendedor' para hacer que el URL sea 'http://www.yourStore.com/el-mejor-vendedor'. Dejar en blanco para generar de forma automática basándose en el nombre del vendedor.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Info">
-    <Value>Información Vendedor</Value>
+    <Value>Información del vendedor</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Vendors.Updated">
     <Value>El vendedor se ha actualizado correctamente.</Value>
@@ -10627,7 +10627,7 @@
     <Value>Seguimiento de inventario por atributos de producto</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.CreatedOn">
-    <Value>Fecha de Creación</Value>
+    <Value>Lo Más Nuevo</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Catalog.ProductSortingEnum.NameAsc">
     <Value>Nombre: A a la Z</Value>
@@ -11660,10 +11660,10 @@
     <Value>Cierre el filtro de especificaciones por defecto</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.DefaultCloseVendors">
-    <Value>Cierre el filtro de proveedores por defecto</Value>
+    <Value>Cerrar el filtro de vendedores por defecto</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.DefaultCloseVendors.Hint">
-    <Value>Cierre el filtro de proveedores por defecto</Value>
+    <Value>Cerrar el filtro de vendedores por defecto</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.DefaultProductSorting">
     <Value>Orden de productos por defecto</Value>
@@ -11696,10 +11696,10 @@
     <Value>Activar los filtros en la página de la marca</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableFiltersForVendor">
-    <Value>Activar los filtros en la página de proveedores</Value>
+    <Value>Activar los filtros en la página de vendedores</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableFiltersForVendor.Hint">
-    <Value>Activar los filtros en la página de proveedores</Value>
+    <Value>Activar los filtros en la página de vendedores</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableManufacturersFilter">
     <Value>Activar el filtro de marcas</Value>
@@ -11726,10 +11726,10 @@
     <Value>Activar Speed Filters</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableVendorsFilter">
-    <Value>Activar el filtro de proveedores</Value>
+    <Value>Activar el filtro de vendedores</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.EnableVendorsFilter.Hint">
-    <Value>Activar el filtro de proveedores</Value>
+    <Value>Activar el filtro de vendedores</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.ErrorMessage">
     <Value>Error. Falló la carga de productos. Por favor refresca la página y prueba nuevamente.</Value>
@@ -11858,10 +11858,10 @@
     <Value>Ids de las marcas (separados por coma), en las cuales no quieres mostrar los filtros</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SkipFiltersforVendors">
-    <Value>Proveedores sin filtros (separados por coma)</Value>
+    <Value>Vendedores sin filtros (separados por coma)</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.SkipFiltersforVendors.Hint">
-    <Value>Ids de los proveedores (separados por coma), en los cuales no quieres mostrar los filtros</Value>
+    <Value>Ids de los vendedores (separados por coma), en los cuales no quieres mostrar los filtros</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.StoreUrl">
     <Value>Url del sitio web (para el registro)</Value>
@@ -11888,7 +11888,7 @@
     <Value>Rango de precios</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.UserMode.Vendors.Title">
-    <Value>Proveedores</Value>
+    <Value>Vendedores</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.SpeedFilters.WidgetZone">
     <Value>Zona de Widget</Value>
@@ -12760,7 +12760,7 @@
     <Value>Módulo Administrativo. Manejador de Tópicos</Value>
   </LocaleResource>
   <LocaleResource Name="Permission.ManageVendors">
-    <Value>Módulo Administrativo. Manejador de Vendedores</Value>
+    <Value>Módulo Administrativo. Administrar Vendedores</Value>
   </LocaleResource>
   <LocaleResource Name="Permission.ManageWidgets">
     <Value>Módulo Administrativo. Manejador de Widgets</Value>
@@ -14622,7 +14622,7 @@
     <Value>Ajustes Mega Menu Items</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Settings.Common.VendorSettings">
-    <Value>Ajustes del menú proveedor</Value>
+    <Value>Configuración del menú de vendedores</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Settings.EnableAboutUsDropDown">
     <Value>Activar "Quiénes somos" desplegable</Value>
@@ -14682,7 +14682,7 @@
     <Value>Incluir vendedores</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Settings.EnableVendors.Hint">
-    <Value>Si se activa un elemento del menú vendedores se incluirá al Mega Menu.</Value>
+    <Value>Si está activado, se incluirá al Mega Menu un ítem para Vendedores</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Settings.IncludeAboutUsLink">
     <Value>Incluir enlace "Sobre nosotros"</Value>
@@ -14828,10 +14828,10 @@
     <Value>Establezca el número máximo de marcas que se van a mostrar en una solo categoría. Si se excede este número se mostrará un enlace "Ver todas las marcas".</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Settings.NumberOfVendors">
-    <Value>Número máximo de proveedores</Value>
+    <Value>Número máximo de vendedores</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Settings.NumberOfVendors.Hint">
-    <Value>Establecer el número máximo de proveedores que se van a mostrar en el elemento de menú vendedores. Si se excede el número máximo se mostrará un enlace "Ver todos los vendedores".</Value>
+    <Value>Establezca el número máximo de vendedores que se van a mostrar en el elemento de menú vendedores. Si se excede el número máximo se mostrará un enlace "Ver todos los vendedores".</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Settings.ProductsImageSize">
     <Value>Tamaño de la imagen Productos (píxeles)</Value>
@@ -14858,10 +14858,10 @@
     <Value>Si se activa la categoría marcas, se mostrará.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Settings.VendorsColumnName">
-    <Value>vendedores</Value>
+    <Value>Vendedores</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Settings.VendorsColumnName.Hint">
-    <Value>Establecer el título de la columna que contiene los proveedores.</Value>
+    <Value>Establezca el título de la columna que contiene los vendedores.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Submenus">
     <Value>nombres del submenú</Value>
@@ -15095,10 +15095,10 @@
     <Value>Compruebe si quieres las cajas de filtro a las especificaciones sean cerrados por defecto.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopAjaxFilters.Admin.CloseVendorsFilterBox">
-    <Value>Cerrar cajas de filtro de proveedores por defecto</Value>
+    <Value>Cerrar las cajas de filtros de vendedores por defecto</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopAjaxFilters.Admin.CloseVendorsFilterBox.Hint">
-    <Value>Compruebe si quieres las cajas de filtro a los proveedores sean cerrados por defecto.</Value>
+    <Value>Marca si quieres que las cajas de filtros de vendedores estén cerradas por defecto.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopAjaxFilters.Admin.CreateOrUpdate">
     <Value>Crear o actualizar</Value>
@@ -15158,10 +15158,10 @@
     <Value>Habilitar el filtrado basado en las especificaciones del producto.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopAjaxFilters.Admin.EnableVendorsFilter">
-    <Value>Habilitar Filtro de vendedores</Value>
+    <Value>Activar el Filtro de Vendedores</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopAjaxFilters.Admin.EnableVendorsFilter.Hint">
-    <Value>Habilitar el filtrado basado en los vendedores del producto.</Value>
+    <Value>Activar el filtrado basado en los vendedores del producto.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopAjaxFilters.Admin.FiltersUIMode">
     <Value>Modo Filtros UI</Value>
@@ -15218,10 +15218,10 @@
     <Value>Mostrar los Nop Ajax Filters en las páginas de las marcas</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopAjaxFilters.Admin.ShowFiltersOnVendorPage">
-    <Value>Mostrar Ajax Filters en la Página de proveedores</Value>
+    <Value>Mostrar los Ajax Filters en la página de vendedores</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopAjaxFilters.Admin.ShowFiltersOnVendorPage.Hint">
-    <Value>Mostrar Ajax Filters en la Página de proveedores.</Value>
+    <Value>Mostrar los Ajax Filters en la página de vendedores.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopAjaxFilters.Admin.SortOptionsDropDownSelector">
     <Value>Ordenar opciones del selector desplegable</Value>
