@@ -16816,7 +16816,7 @@
     <Value>Carrito</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.AddToCart">
-    <Value>Comprar Ahora</Value>
+    <Value>Comprar Ya</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.AddToCart.Update">
     <Value>Actualizar</Value>
