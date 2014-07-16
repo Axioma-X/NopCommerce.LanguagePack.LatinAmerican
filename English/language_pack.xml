@@ -16371,6 +16371,7 @@
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Fields.Picture.IsRequired">
     <Value>Picture is required</Value>
+  </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.HtmlWidgets">
     <Value>Nop Html Widgets</Value>
   </LocaleResource>
