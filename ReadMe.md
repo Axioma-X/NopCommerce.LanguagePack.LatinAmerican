@@ -16,25 +16,27 @@ Author v3.10: [varatayo](http://www.nopcommerce.com/profile.aspx?userid=85808)
 
 
 ## Plugins with translation
-1. Seven Spikes Core
-2. Nop Ajax Cart
-3. Nop Ajax Filters
-4. Nop Anywhere Sliders
-5. Nop Cloud Zoom
-6. Nop Html Widgets
-7. Nop Instant Search
-8. Nop JCarousel
-9. Nop Mega Menu
-10. Nop Product Ribbons
-11. Nop Quick Tabs
-12. Nop Quick View
-13. Nop NeoFashion Theme
-14. FoxNetSoft Contents
-15. FoxNetSoft MSSQLProvider
-16. FoxNetSoft SpeedFilters
-17. MailChimp e-mail synchronization
-18. Zona Virtual Colombia
-19. Stores Pickup
+- Seven Spikes Core
+- Nop Ajax Cart
+- Nop Ajax Filters
+- Nop Anywhere Sliders
+- Nop Cloud Zoom
+- Nop Html Widgets
+- Nop Instant Search
+- Nop JCarousel
+- Nop Mega Menu
+- Nop Product Ribbons
+- Nop Quick Tabs
+- Nop Quick View
+- Nop NeoFashion Theme
+- Nop Sales Campaigns
+- FoxNetSoft Advanced Activity Log
+- FoxNetSoft Contents
+- FoxNetSoft MSSQLProvider
+- FoxNetSoft SpeedFilters
+- MailChimp e-mail synchronization
+- Zona Virtual Colombia
+- Stores Pickup
 
 
 
@@ -91,6 +93,8 @@ Si desea la tienda sólo en español:
 
 
 ## Historia
+**2014 07 16:** Adicionados los Plugins "Nop Sales Campaigns" y "FoxNetSoft Advanced Activity Log"
+
 **2014 07 09:** Se cambia el botón "Comprar Ahora" por "Comprar Ya"
 
 **2014 07 06:** Se corrige "Vendor" que estaba como "Proveedor" y es "Vendedor", además de otras correcciones menores
