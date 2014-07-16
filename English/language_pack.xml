@@ -16763,7 +16763,6 @@
   <LocaleResource Name="SevenSpikes.Plugins.SaleCampaigns.Public.Seconds">
     <Value>seconds</Value>
   </LocaleResource>
-  </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons">
     <Value>Nop Product Ribbons</Value>
   </LocaleResource>
