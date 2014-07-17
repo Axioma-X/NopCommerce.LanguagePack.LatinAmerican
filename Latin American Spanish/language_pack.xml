@@ -693,7 +693,7 @@
     <Value>Se ha agregado un comentario de noticias</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.AddProductReview">
-    <Value>Se ha agregado una revisión del producto ('{0}')</Value>
+    <Value>Se ha agregado una reseña del producto ('{0}')</Value>
   </LocaleResource>
   <LocaleResource Name="ActivityLog.PublicStore.AddToCompareList">
     <Value>Se ha agregado un producto a la lista de comparación ('{0}')</Value>
@@ -1221,7 +1221,7 @@
     <Value>Agregar un nuevo atributo de especificación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.BackToList">
-    <Value>volver a la lista de atributos de especificación</Value>
+    <Value>Volver a la lista de atributos de especificación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Attributes.SpecificationAttributes.Deleted">
     <Value>El atributo se ha eliminado correctamente.</Value>
@@ -1335,7 +1335,7 @@
     <Value>Agregar una nueva categoría</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Categories.BackToList">
-    <Value>Volver Categoría</Value>
+    <Value>Volver a la lista de categorías</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Categories.Breadcrumb">
     <Value>Migaja de pan</Value>
@@ -1704,46 +1704,46 @@
     <Value>La marca se ha actualizado correctamente.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews">
-    <Value>Revisiones del producto</Value>
+    <Value>Reseñas del producto</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.ApproveSelected">
     <Value>Aprobar seleccionado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.BackToList">
-    <Value>Volver a la lista opinión</Value>
+    <Value>Volver a la lista de reseñas del producto</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Deleted">
-    <Value>La revisión del producto se ha eliminado correctamente.</Value>
+    <Value>La reseña del producto se ha eliminado correctamente.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.DisapproveSelected">
     <Value>Desaprueba seleccionado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.EditProductReviewDetails">
-    <Value>Edición de productos Detalles de la opinión</Value>
+    <Value>Editar los detalles de la reseña del producto</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Fields.CreatedOn">
     <Value>Fecha de Creación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Fields.CreatedOn.Hint">
-    <Value>La fecha/hora de creación de la revisión.</Value>
+    <Value>La fecha/hora en que se creó la reseña.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Customer">
     <Value>Cliente</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Customer.Hint">
-    <Value>El cliente que ha creado la revisión.</Value>
+    <Value>El cliente que creó la reseña.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Fields.IsApproved">
     <Value>Está aprobado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Fields.IsApproved.Hint">
-    <Value>Se aprobó la revisión? Marcado como medios aprobados que es visible para todos los visitantes de su sitio.</Value>
+    <Value>¿La reseña está aprobada? Marcarla como aprobada significa que es visible para todos los visitantes de tu sitio.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Product">
     <Value>Producto</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Product.Hint">
-    <Value>El nombre del producto que la valoración es de.</Value>
+    <Value>El nombre del producto para el cual es la reseña.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Rating">
     <Value>Clasificación</Value>
@@ -1752,19 +1752,19 @@
     <Value>Evaluacion del producto del cliente.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Fields.ReviewText">
-    <Value>Texto del comentario</Value>
+    <Value>Texto de la reseña</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Fields.ReviewText.Hint">
-    <Value>El texto de opinión.</Value>
+    <Value>El texto de la reseña.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Fields.ReviewText.Required">
-    <Value>Se requiere Texto del comentario.</Value>
+    <Value>Algún texto es necesario para la reseña.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Title">
     <Value>Título</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Title.Hint">
-    <Value>El título de la revisión del producto.</Value>
+    <Value>Título de la reseña del producto.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Fields.Title.Required">
     <Value>Se requiere Título.</Value>
@@ -1785,10 +1785,10 @@
     <Value>Mensaje</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.List.SearchText.Hint">
-    <Value>Buscar en el título y el texto del comentario.</Value>
+    <Value>Buscar en el título y en el texto de la reseña.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.ProductReviews.Updated">
-    <Value>La revisión del producto se ha actualizado correctamente.</Value>
+    <Value>La reseña del producto se ha actualizado correctamente.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products">
     <Value>Productos</Value>
@@ -1920,10 +1920,10 @@
     <Value>Permite a los clientes a suscribirse a una lista de notificación para un producto que está fuera del inventario.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.AllowCustomerReviews">
-    <Value>Permitir comentarios de los clientes</Value>
+    <Value>Permitir reseña de los clientes</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.AllowCustomerReviews.Hint">
-    <Value>Marque para permitir que los clientes puedan opinar sobre este producto.</Value>
+    <Value>Marca para permitir que los clientes puedan reseñar este producto.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Catalog.Products.Fields.AllowedQuantities">
     <Value>Cantidades permitidas</Value>
@@ -2952,7 +2952,7 @@
     <Value>No, cancelar</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Common.Preview">
-    <Value>Avance</Value>
+    <Value>Previsualización</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Common.Save">
     <Value>Guardar</Value>
@@ -3069,7 +3069,7 @@
     <Value>Agregar un nuevo país</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Countries.BackToList">
-    <Value>Volver a lista países</Value>
+    <Value>Volver a la lista de países</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Countries.Deleted">
     <Value>El país se ha eliminado correctamente.</Value>
@@ -3378,7 +3378,7 @@
     <Value>Agregar un nuevo email</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.EmailAccounts.BackToList">
-    <Value>Volver a la lista de emails</Value>
+    <Value>Volver a la lista de cuentas de email</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.EmailAccounts.Deleted">
     <Value>El email se ha eliminado correctamente.</Value>
@@ -3471,7 +3471,7 @@
     <Value>Métodos de autenticación externos</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.ExternalAuthenticationMethods.BackToList">
-    <Value>Volver a la lista método de autenticación</Value>
+    <Value>Volver a la lista de métodos de autenticación</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.ExternalAuthenticationMethods.Configure">
     <Value>Configurar</Value>
@@ -3498,7 +3498,7 @@
     <Value>Agregar un nuevo idioma</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Languages.BackToList">
-    <Value>Volver a la lista del idioma</Value>
+    <Value>Volver a la lista de idiomas</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Languages.Deleted">
     <Value>El lenguaje se ha eliminado correctamente.</Value>
@@ -3720,7 +3720,7 @@
     <Value>Formas de pago</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Payment.Methods.BackToList">
-    <Value>Volver a la lista método de pago</Value>
+    <Value>Volver a la lista de métodos de pago</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Payment.Methods.Configure">
     <Value>Configurar</Value>
@@ -3855,7 +3855,7 @@
     <Value>El plugin se ha instalado.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Plugins.Misc.BackToList">
-    <Value>volver a la lista de plugins</Value>
+    <Value>Volver a la lista de plugins</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Plugins.Misc.Configure">
     <Value>Configurar</Value>
@@ -3942,10 +3942,10 @@
     <Value>Marque si va a permitir que los usuarios anónimos compartan a un amigo.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.AllowAnonymousUsersToReviewProduct">
-    <Value>Permitir a los usuarios anónimos escribir comentario</Value>
+    <Value>Permitir a los usuarios anónimos escribir reseñas a los productos</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.AllowAnonymousUsersToReviewProduct.Hint">
-    <Value>Marque para permitir que los usuarios anónimos escriban reseñas a los productos.</Value>
+    <Value>Marca para permitir que los usuarios anónimos escriban reseñas a los productos.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.AllowProductSorting">
     <Value>Permitir selección de productos</Value>
@@ -4044,10 +4044,10 @@
     <Value>Ingresa el número de marcas a mostrar en el bloque de navegación de marcas.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.NotifyStoreOwnerAboutNewProductReviews">
-    <Value>Notificarme de nuevos comentarios de productos</Value>
+    <Value>Notificar de nuevas reseñas a los productos</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.NotifyStoreOwnerAboutNewProductReviews.Hint">
-    <Value>Revise para notificar al dueño de la tienda acerca de un nuevo comentario.</Value>
+    <Value>Marca para notificar al dueño de la tienda sobre nuevas reseñas a los productos.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.NumberOfBestsellersOnHomepage">
     <Value>Número de productos más vendidos en la página principal</Value>
@@ -4068,10 +4068,10 @@
     <Value>Una página con el botón de código de compartir. De forma predeterminada, estamos utilizando el servicio AddThis.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.ProductReviewsMustBeApproved">
-    <Value>Opiniones del producto deben ser aprobados</Value>
+    <Value>Las reseñas de los productos deben ser aprobadas</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.ProductReviewsMustBeApproved.Hint">
-    <Value>Compruebe si el comentario fue aprobado por el administrador.</Value>
+    <Value>Marca si las reseñas de los productos deben ser aprobadas por el administrador.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.ProductsAlsoPurchasedEnabled">
     <Value>'Los productos también comprados' habilitado</Value>
@@ -4758,10 +4758,10 @@
     <Value>Marque para mostrar el CAPTCHA en la página de noticias para escribir un comentario.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnProductReviewPage">
-    <Value>Mostrar en la página reseñas de producto</Value>
+    <Value>Mostrar en la página de reseñas de producto</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnProductReviewPage.Hint">
-    <Value>Marque para mostrar el CAPTCHA en la página de reseñas de los productos para escribir una reseña.</Value>
+    <Value>Marca para mostrar el CAPTCHA en la página de reseñas de los productos cuando se escribe una reseña.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.CaptchaShowOnRegistrationPage">
     <Value>Mostrar en la página de registro</Value>
@@ -5691,7 +5691,7 @@
     <Value>Agregar nueva fecha de entrega</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Shipping.DeliveryDates.BackToList">
-    <Value>Volver a la lista de entregas</Value>
+    <Value>Volver a la lista de fechas de entrega</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Shipping.DeliveryDates.Deleted">
     <Value>La fecha de entrega fue eliminada con éxito.</Value>
@@ -5727,7 +5727,7 @@
     <Value>Agregar un nuevo método de envío</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Shipping.Methods.BackToList">
-    <Value>Volver a la lista del método de envío</Value>
+    <Value>Volver a la lista de métodos de envío</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Shipping.Methods.Deleted">
     <Value>El método de envío que se ha eliminado correctamente.</Value>
@@ -5763,7 +5763,7 @@
     <Value>Métodos de cálculo la tarifa de envío</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Shipping.Providers.BackToList">
-    <Value>volver al índice lista de métodos de cálculo de envío</Value>
+    <Value>Volver a la lista de métodos de cálculos de envío</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Shipping.Providers.Configure">
     <Value>Configurar</Value>
@@ -5805,7 +5805,7 @@
     <Value>Agregar nuevo depósito.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Shipping.Warehouses.BackToList">
-    <Value>Volver a la lista de depósitos</Value>
+    <Value>Volver a la lista de almacenes</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Shipping.Warehouses.Deleted">
     <Value>El depósito ha sido borrado con éxito.</Value>
@@ -5832,7 +5832,7 @@
     <Value>Proveedores de SMS</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.SMSProviders.BackToList">
-    <Value>volver a la lista de proveedores de SMS</Value>
+    <Value>Volver a la lista de proveedores de SMS</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.SMSProviders.Configure">
     <Value>Configurar</Value>
@@ -5856,7 +5856,7 @@
     <Value>Agregar un nuevo almacén</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Stores.BackToList">
-    <Value>una copia de la lista del almacén</Value>
+    <Value>Volver a la lista de tiendas</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Stores.Deleted">
     <Value>La tienda se ha eliminado correctamente.</Value>
@@ -5931,7 +5931,7 @@
     <Value>Proveedores de Impuestos</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Tax.Providers.BackToList">
-    <Value>volver a la lista de proveedores de impuestos</Value>
+    <Value>Volver a la lista de proveedores de impuestos</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Tax.Providers.Configure">
     <Value>Configurar</Value>
@@ -5967,7 +5967,7 @@
     <Value>Agregar una nueva entrada de blog</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.BackToList">
-    <Value>Volver a Blog Lista mensaje</Value>
+    <Value>Volver a la lista de posts del blog</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Blog.BlogPosts.Deleted">
     <Value>El blog se ha eliminado correctamente.</Value>
@@ -6099,7 +6099,7 @@
     <Value>El nuevo foro ha sido agregado con éxito.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Forums.Forum.BackToList">
-    <Value>Volver a la lista Foro</Value>
+    <Value>Volver a la lista del foro</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Forums.Forum.CreateForum">
     <Value>Adicionar Nuevo Foro</Value>
@@ -6153,7 +6153,7 @@
     <Value>El grupo nuevo foro ha sido agregado con éxito.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Forums.ForumGroup.BackToList">
-    <Value>volver a la lista de grupo del foro</Value>
+    <Value>Volver a la lista de grupos del foro</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Forums.ForumGroup.CreateForumGroup">
     <Value>Agregar nuevo grupo Foro</Value>
@@ -6192,7 +6192,7 @@
     <Value>Plantillas de mensajes</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.MessageTemplates.BackToList">
-    <Value>Atrás para regresar lista de plantillas de mensaje</Value>
+    <Value>Volver a la lista de plantillas de mensaje</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.MessageTemplates.Copy">
     <Value>Copia de plantilla</Value>
@@ -6459,7 +6459,7 @@
     <Value>Tendrá que guardar la encuesta antes de agregar respuestas para esta página de votación.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Polls.BackToList">
-    <Value>volver a la lista de sondeo</Value>
+    <Value>Volver a la lista de encuentas</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Polls.Deleted">
     <Value>La encuesta se ha eliminado correctamente.</Value>
@@ -6540,7 +6540,7 @@
     <Value>Agregar un nuevo tema</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Topics.BackToList">
-    <Value>una copia de la lista de temas</Value>
+    <Value>Volver a la lista de temas</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ContentManagement.Topics.Deleted">
     <Value>El tema se ha eliminado correctamente.</Value>
@@ -6810,7 +6810,7 @@
     <Value>Agregar un nuevo rol al cliente</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.CustomerRoles.BackToList">
-    <Value>Volver a la lista rol del cliente</Value>
+    <Value>Volver a la lista de roles del cliente</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.CustomerRoles.Deleted">
     <Value>El papel del cliente se ha eliminado correctamente.</Value>
@@ -6942,7 +6942,7 @@
     <Value>Una lista de los identificadores de autenticación externos.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.BackToList">
-    <Value>Volver a la lista del cliente</Value>
+    <Value>Volver a la lista de clientes</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Customers.Customers.CannotBeInVendoRoleWithoutVendorAssociated">
     <Value>Un cliente con el rol de vendedor debe tener una cuenta de asociada de vendedor.</Value>
@@ -7503,7 +7503,7 @@
     <Value>Agregar una nueva tarjeta de regalo</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.GiftCards.BackToList">
-    <Value>volver a la lista de tarjetas de regalo</Value>
+    <Value>Volver a la lista de tarjetas de regalo</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.GiftCards.Deleted">
     <Value>La tarjeta de regalo se ha eliminado correctamente.</Value>
@@ -7674,7 +7674,7 @@
     <Value>Dirección 2</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Address.BackToOrder">
-    <Value>Volver a los detalles de orden</Value>
+    <Value>Volver a los detalles del pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Address.City">
     <Value>Ciudad</Value>
@@ -7707,7 +7707,7 @@
     <Value>Código Postal</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.BackToList">
-    <Value>Volver a la lista de órdenes</Value>
+    <Value>Volver a la lista de pedidos</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.BillingInfo">
     <Value>Información de facturación</Value>
@@ -8208,7 +8208,7 @@
     <Value>Volver a la lista de productos</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Products.AddNew.BackToOrder">
-    <Value>Volver a los detalles de orden</Value>
+    <Value>Volver a los detalles del pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Products.AddNew.Name">
     <Value>Nombre</Value>
@@ -8349,7 +8349,7 @@
     <Value>Agregar un nuevo envío a la orden #{0}</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.BackToOrder">
-    <Value>Volver a los detalles de orden</Value>
+    <Value>Volver a los detalles del pedido</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Orders.Shipments.Deleted">
     <Value>El envío se ha eliminado correctamente.</Value>
@@ -8523,7 +8523,7 @@
     <Value>Agregar una nueva campaña</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Promotions.Campaigns.BackToList">
-    <Value>Volver a la lista campaña</Value>
+    <Value>Volver a la lista de campañas</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Promotions.Campaigns.Deleted">
     <Value>La campaña se ha eliminado correctamente.</Value>
@@ -8601,7 +8601,7 @@
     <Value>Agregar un nuevo descuento</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Promotions.Discounts.BackToList">
-    <Value>Volver a la lista de descuento</Value>
+    <Value>Volver a la lista de descuentos</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Promotions.Discounts.Deleted">
     <Value>El descuento se ha eliminado correctamente.</Value>
@@ -8766,7 +8766,7 @@
     <Value>Pagos recurrentes</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.RecurringPayments.BackToList">
-    <Value>volver a la lista de pago recurrente</Value>
+    <Value>Volver a la lista de pagos recurrentes</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.RecurringPayments.Cancelled">
     <Value>El pago ha sido cancelado con éxito.</Value>
@@ -8877,7 +8877,7 @@
     <Value>Peticiones de Devolución</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ReturnRequests.BackToList">
-    <Value>Atrás para regresar lista de peticiones</Value>
+    <Value>Volver a la lista de devoluciones</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ReturnRequests.Deleted">
     <Value>La solicitud de devolución se ha eliminado correctamente.</Value>
@@ -9105,7 +9105,7 @@
     <Value>Log</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Log.BackToList">
-    <Value>volver al registro del sistema</Value>
+    <Value>Volver al log del sistema</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.Log.Cleared">
     <Value>El registro se ha borrado con éxito.</Value>
@@ -9255,7 +9255,7 @@
     <Value>Mensaje encolado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.QueuedEmails.BackToList">
-    <Value>una copia de la cola de mensajes</Value>
+    <Value>Volver a la cola de mensajes</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.System.QueuedEmails.DeleteAll">
     <Value>Borrar todos</Value>
@@ -10362,7 +10362,7 @@
     <Value>Está seguro?</Value>
   </LocaleResource>
   <LocaleResource Name="Common.Back">
-    <Value>Espalda</Value>
+    <Value>Volver</Value>
   </LocaleResource>
   <LocaleResource Name="Common.Cancel">
     <Value>Cancelar</Value>
@@ -10741,7 +10741,7 @@
     <Value>Normal</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Forums.ForumTopicType.Sticky">
-    <Value>Pegajoso</Value>
+    <Value>Adhesivo</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Logging.LogLevel.Debug">
     <Value>Depurar</Value>
@@ -11024,43 +11024,43 @@
     <Value>Seleccionar los productos manualmente.</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Plugins.SaleCampaigns.Domain.Enums.SaleCampaignClockTextAlign.Center">
-    <Value>Center</Value>
+    <Value>Centrado</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Plugins.SaleCampaigns.Domain.Enums.SaleCampaignClockTextAlign.Default">
-    <Value>Select text align...</Value>
+    <Value>Selecciona la alineación del texto...</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Plugins.SaleCampaigns.Domain.Enums.SaleCampaignClockTextAlign.Inherit">
-    <Value>Inherit</Value>
+    <Value>Heredado</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Plugins.SaleCampaigns.Domain.Enums.SaleCampaignClockTextAlign.Justify">
-    <Value>Justify</Value>
+    <Value>Justificado</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Plugins.SaleCampaigns.Domain.Enums.SaleCampaignClockTextAlign.Left">
-    <Value>Left</Value>
+    <Value>Izquierda</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Plugins.SaleCampaigns.Domain.Enums.SaleCampaignClockTextAlign.Right">
-    <Value>Right</Value>
+    <Value>Derecha</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Plugins.SaleCampaigns.Domain.Enums.SaleCampaignClockType.DaysHoursMinutesSeconds">
-    <Value>Sale ends in # days, # hours, # minutes, # seconds</Value>
+    <Value>La venta termina en # días, # horas, # minutos, # segundos</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Plugins.SaleCampaigns.Domain.Enums.SaleCampaignClockType.HoursMinutesSeconds">
-    <Value>Sale ends in # hours, # minutes, # seconds</Value>
+    <Value>La venta termina en # horas, # minutos, # segundos</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Plugins.SaleCampaigns.Domain.Enums.SaleCampaignClockType.LongDate">
-    <Value>On Sale until Saturday, January 1, 2014, 0:00:00 AM</Value>
+    <Value>En venta hasta el sábado, Enero 1, 2014, 0:00:00 AM</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Plugins.SaleCampaigns.Domain.Enums.SaleCampaignClockType.LongDateWithoutTime">
-    <Value>On Sale until Saturday, January 1, 2014</Value>
+    <Value>En venta hasta el sábado, Enero 1, 2014</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Plugins.SaleCampaigns.Domain.Enums.SaleCampaignClockType.OnlyDays">
-    <Value>Sale ends in # days</Value>
+    <Value>La venta termina en # días</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Plugins.SaleCampaigns.Domain.Enums.SaleCampaignClockType.ShortDate">
     <Value>On Sale until Jan 1, 2014, 0:00:00 AM </Value>
   </LocaleResource>
   <LocaleResource Name="Enums.SevenSpikes.Nop.Plugins.SaleCampaigns.Domain.Enums.SaleCampaignClockType.ShortDateWithoutTime">
-    <Value>On Sale until Jan 1, 2014</Value>
+    <Value>En venta hasta Ene 1, 2014</Value>
   </LocaleResource>
   <LocaleResource Name="EUCookieLaw.CannotBrowse">
     <Value>No se puede navegar por este sitio hasta que acepte las cookies</Value>
@@ -11384,7 +11384,7 @@
     <Value>Estado</Value>
   </LocaleResource>
   <LocaleResource Name="Forum.Sticky">
-    <Value>Pegajoso</Value>
+    <Value>Adhesivo</Value>
   </LocaleResource>
   <LocaleResource Name="Forum.Submit">
     <Value>Enviar</Value>
@@ -11480,10 +11480,10 @@
     <Value>Advanced Activity Log</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Fields.EntityGroup">
-    <Value>Type</Value>
+    <Value>Tipo</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Fields.EntityGroup.Hint">
-    <Value>Type.</Value>
+    <Value>Tipo.</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Fields.EntityId">
     <Value>Id</Value>
@@ -11492,139 +11492,139 @@
     <Value>Id.</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Fields.EntityKey">
-    <Value>Property</Value>
+    <Value>Propiedad</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Fields.EntityName">
-    <Value>Name</Value>
+    <Value>Nombre</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Fields.IsSend">
-    <Value>Sent</Value>
+    <Value>Enviado</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Fields.NewValue">
-    <Value>New Value</Value>
+    <Value>Nuevo valor</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Fields.OldValue">
-    <Value>Old Value</Value>
+    <Value>Valor anterior</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.AdminEmails">
-    <Value>Admin emails</Value>
+    <Value>Emails de Administradores</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.AdminEmails.Hint">
-    <Value>Admin emails (comma separeted, ex. admin1@yourstore.com,admin2@yourstore.com )</Value>
+    <Value>Emails de administradores (separados por coma, ej. admin1@yourstore.com, admin2@yourstore.com)</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.AdvancedLogging">
-    <Value>Enable advanced auditing</Value>
+    <Value>Activar la auditoría avanzada</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.AdvancedLogging.Hint">
-    <Value>Enable advanced auditing for all tables (Customer, Product, Category, Manufacturer)</Value>
+    <Value>Activar la auditoría avanzada para todas las tablas (Clientes, Productos, Categorías, Marcas)</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.ClearLogFile">
-    <Value>Clear log-file</Value>
+    <Value>Limpiar el archivo de log</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.Enabled">
-    <Value>Enable plugin</Value>
+    <Value>Activar el plugin</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.Enabled.Hint">
-    <Value>Enable plugin</Value>
+    <Value>Activar el plugin</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.GetLogFile">
-    <Value>Download log-file</Value>
+    <Value>Descargar el archivo de log</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.IsNoRegisted">
-    <Value>Unregistered version is fully working, but it has a limit - only 20 records.</Value>
+    <Value>Esta versión sin registrar es totalmente operativa, pero tiene un límite - sólo 20 registros.</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.IsRegisted">
-    <Value>Registered version.</Value>
+    <Value>Versión registrada.</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.LoggingCategory">
-    <Value>Enable auditing for Category table</Value>
+    <Value>Activar la auditoría a la tabla de Categorías</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.LoggingCategory.Hint">
-    <Value>Enable auditing for Category table</Value>
+    <Value>Activar la auditoría a la tabla de Categorías</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.LoggingCustomer">
-    <Value>Enable auditing for Customer table</Value>
+    <Value>Activar la auditoría a la tabla de Clientes</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.LoggingCustomer.Hint">
-    <Value>Enable auditing for Customer table</Value>
+    <Value>Activar la auditoría a la tabla de Clientes</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.LoggingManufacturer">
-    <Value>Enable auditing for Manufacturer table</Value>
+    <Value>Activar la auditoría a la tabla de Marcas</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.LoggingManufacturer.Hint">
-    <Value>Enable auditing for Manufacturer table</Value>
+    <Value>Activar la auditoría a la tabla de Marcas</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.LoggingProduct">
-    <Value>Enable auditing for Product table</Value>
+    <Value>Activar la auditoría a la tabla de Productos</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.LoggingProduct.Hint">
-    <Value>Enable auditing for the Product table</Value>
+    <Value>Activar la auditoría a la tabla de Productos</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.MaximumRecords">
-    <Value>Maximum number of records</Value>
+    <Value>Número máximo de registros</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.MaximumRecords.Hint">
-    <Value>Maximum number of records in log. If exceeded, old records will be deleted.</Value>
+    <Value>Número máximo de registros en el log. Si se excede, los registro anteriores se eliminarán.</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.Notify">
-    <Value>Notify store owner about customer activity</Value>
+    <Value>Notificar al dueño de la tienda sobre actividad del cliente</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.NotifyCategory">
-    <Value>Notify about Category table changes</Value>
+    <Value>Notificar sobre cambios en la tabla de Categorías</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.NotifyCategory.Hint">
-    <Value>Notify about Category table changes</Value>
+    <Value>Notificar sobre cambios en la tabla de Categorías</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.NotifyCustomer">
-    <Value>Notify about Customer table changes</Value>
+    <Value>Notificar sobre cambios en la tabla de Clientes</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.NotifyCustomer.Hint">
-    <Value>Notify about Customer table changes</Value>
+    <Value>Notificar sobre cambios en la tabla de Clientes</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.NotifyManufacturer">
-    <Value>Notify about Manufacturer table changes</Value>
+    <Value>Notificar sobre cambios en la tabla de Marcas</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.NotifyManufacturer.Hint">
-    <Value>Notify about Manufacturer table changes</Value>
+    <Value>Notificar sobre cambios en la tabla de Marcas</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.NotifyProduct">
-    <Value>Notify about Product table changes</Value>
+    <Value>Notificar sobre cambios en la tabla de Productos</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.NotifyProduct.Hint">
-    <Value>Notify about Product table changes</Value>
+    <Value>Notificar sobre cambios en la tabla de Productos</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.SaveLogDays">
-    <Value>Save logs (days)</Value>
+    <Value>Guarda logs (en días)</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.SaveLogDays.Hint">
-    <Value>Number of days to keep records in log</Value>
+    <Value>Número de días para guardar los registros en el log</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.SendEmailButton">
-    <Value>Send report to email</Value>
+    <Value>Enviar el reporte al email</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.SendEmailPerMinutes">
-    <Value>Send report on changes to email every (minutes)</Value>
+    <Value>Enviar el reporte al email cuando haya cambios cada (en minutos)</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.SendEmailPerMinutes.Hint">
-    <Value>Send report on changes to email every (minutes)</Value>
+    <Value>Enviar el reporte al email cuando hayan cambios cada (minutos)</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.SerialNumber">
-    <Value>Serial number</Value>
+    <Value>Número serial</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.SerialNumber.Hint">
-    <Value>Serial number</Value>
+    <Value>Número serial</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.showDebugInfo">
-    <Value>Enable Debugging</Value>
+    <Value>Activar el debugging</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.showDebugInfo.Hint">
-    <Value>Write debugging information into file. In ~/App_Data/ folder</Value>
+    <Value>Escribir la información de debugging en un archivo. En la carpeta ~/App_Data/ folder</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.StoreUrl">
-    <Value>Website address (for registration)</Value>
+    <Value>Dirección del sitio web (para el registro)</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.AdvancedActivityLog.Settings.StoreUrl.Hint">
-    <Value>Website address (for registration)</Value>
+    <Value>Dirección del sitio web (para el registro)</Value>
   </LocaleResource>
   <LocaleResource Name="FoxNetSoft.Plugin.Misc.Contents.Categories">
     <Value>Asignacion de categoría</Value>
@@ -12571,7 +12571,7 @@
     <Value>Compartir a un amigo</Value>
   </LocaleResource>
   <LocaleResource Name="PageTitle.ProductReviews">
-    <Value>Revisiones del producto</Value>
+    <Value>Reseñas de los productos</Value>
   </LocaleResource>
   <LocaleResource Name="PageTitle.ProductsByTag">
     <Value>Productos etiquetados con '{0}'</Value>
@@ -12913,7 +12913,7 @@
     <Value>Módulo Administrativo. Manejador de Encuestas</Value>
   </LocaleResource>
   <LocaleResource Name="Permission.ManageProductReviews">
-    <Value>Módulo Administrativo. Manejador de Revisión de Productos</Value>
+    <Value>Área Administrativa. Gestionar las Reseñas de los Productos</Value>
   </LocaleResource>
   <LocaleResource Name="Permission.ManageProducts">
     <Value>Módulo Administrativo. Manejador de Productos</Value>
@@ -13327,10 +13327,10 @@
     <Value>Activar si el cliente debería ser redirigido a la página de detalles del pedido cuando haga clic en "Volver a la Tienda" en el sitio de PayPal SIN completar el pago.</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.ServiceCode">
-    <Value>Service Code</Value>
+    <Value>Código del Servicio</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.ServiceCode.Hint">
-    <Value>Service Code provided for Zona Virtual</Value>
+    <Value>Código proveído por Zona Virtual</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Payments.ZonaVirtual.Fields.StoreName">
     <Value>Nombre de la Tienda</Value>
@@ -13351,10 +13351,10 @@
     <Value>Marque para activar la Zona de Pruebas (ambiente de testing).</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Payments.ZonaVirtual.Front.Message">
-    <Value>Te redireccionarremos al sitio de Zona Virtual para que completes el proceso.</Value>
+    <Value>Gracias por comprar con Zona Virtual</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Payments.ZonaVirtual.Front.TitleDialog">
-    <Value>Zona de Pago Fruta Fresca</Value>
+    <Value>Proceso de pago en Zona Virtual</Value>
   </LocaleResource>
   <LocaleResource Name="Plugins.Shipping.FixedRateShipping.Fields.Rate">
     <Value>Rata</Value>
@@ -13621,7 +13621,7 @@
     <Value>({0} sin leer)</Value>
   </LocaleResource>
   <LocaleResource Name="PrivateMessages.View.BackButton">
-    <Value>Realice una copia de los mensajes</Value>
+    <Value>Volver a los mensajes</Value>
   </LocaleResource>
   <LocaleResource Name="PrivateMessages.View.DeleteButton">
     <Value>Borrar</Value>
@@ -13957,13 +13957,13 @@
     <Value>Por qué estas devolviendo estos equipos?</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews">
-    <Value>Opiniones</Value>
+    <Value>Reseñas</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.Date">
     <Value>Fecha</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.ExistingReviews">
-    <Value>Opiniones existentes</Value>
+    <Value>Reseñas existentes</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.Fields.Rating">
     <Value>Clasificación</Value>
@@ -13975,64 +13975,64 @@
     <Value>Excelente</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.Fields.ReviewText">
-    <Value>Texto del comentario</Value>
+    <Value>Texto de la reseña</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.Fields.ReviewText.Required">
-    <Value>Se requiere Texto del comentario.</Value>
+    <Value>El texto de la reseña es obligatorio.</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.Fields.Title">
-    <Value>Análisis Título</Value>
+    <Value>Título de la reseña</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.Fields.Title.MaxLengthValidation">
-    <Value>Longitud máxima del título opinión es {0} caracteres</Value>
+    <Value>La longitud máxima del título de la reseña es de {0} caracteres</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.Fields.Title.Required">
-    <Value>Se requiere Título de la opinión.</Value>
+    <Value>El título de la reseña es obligatorio.</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.From">
     <Value>De</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.Helpfulness.OnlyRegistered">
-    <Value>Sólo los clientes registrados pueden fijar amabilidad opinión</Value>
+    <Value>Sólo los clientes registrados pueden dejar reseñas</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.Helpfulness.SuccessfullyVoted">
     <Value>éxito votado</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.Helpfulness.WasHelpful?">
-    <Value>Este fue útil</Value>
+    <Value>¿Esta reseña fue de ayuda?</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.Helpfulness.YourOwnReview">
-    <Value>Usted no puede votar por su propia opinión</Value>
+    <Value>No puedes votar por tu propia reseña</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.OnlyRegisteredUsersCanWriteReviews">
-    <Value>Sólo los usuarios registrados pueden agregar sus comentarios</Value>
+    <Value>Sólo los usuarios registrados pueden escribir reseñas</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.Overview.AddNew">
-    <Value>Denos su opinión</Value>
+    <Value>Adiciona tu reseña</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.Overview.First">
-    <Value>Sé el primero en opinar sobre este producto</Value>
+    <Value>Sé el primero en reseñar este producto</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.Overview.Reviews">
-    <Value>Revisiones</Value>
+    <Value>reseña(s)</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.ProductReviewsFor">
-    <Value>Reseña del producto</Value>
+    <Value>Reseñas de</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.SeeAfterApproving">
-    <Value>Verá la revisión del producto después de la aprobación de un administrador de la tienda.</Value>
+    <Value>Verás tu reseña después de que sea aprobada por un administrador.</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.SubmitButton">
-    <Value>Enviar opinión</Value>
+    <Value>Enviar reseña</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.SuccessfullyAdded">
-    <Value>Revisión del producto se ha agregado correctamente.</Value>
+    <Value>La reseña del producto se ha agregado correctamente.</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.TotalReviews">
-    <Value>{0} de revisión (s)</Value>
+    <Value>{0} reseña(s)</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews.Write">
-    <Value>Escriba su propia opinión</Value>
+    <Value>Escribe tu propia reseña</Value>
   </LocaleResource>
   <LocaleResource Name="RewardPoints.CurrentBalance">
     <Value>Su saldo actual es {0} puntos de recompensa ({1}).</Value>
@@ -14483,7 +14483,7 @@
     <Value>Añadir nuevo JCarousel</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.JCarousel.Admin.BackToList">
-    <Value>Volver a la lista de carrusel</Value>
+    <Value>Volver a la lista de carruseles</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.JCarousel.Admin.ClickToConfigure">
     <Value>Para configurar el plugin hacer clic AQUÍ o ir a Plugins -&gt; Nop jCarousel -&gt; Administrar JCarousels</Value>
@@ -15056,10 +15056,10 @@
     <Value>Si se activa la categoría marcas, se mostrará.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Settings.StickyCategoryId">
-    <Value>Set a Sticky category</Value>
+    <Value>Establezca una categoría adhesiva</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Settings.StickyCategoryId.Hint">
-    <Value>Sets the category that will be always shown as an item in the top level of the menu.</Value>
+    <Value>Establezca una categoría que siempre se mostrará como un ítem en el nivel superior del menú.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.Admin.Settings.VendorsColumnName">
     <Value>Vendedores</Value>
@@ -15077,7 +15077,7 @@
     <Value>Título del tema por defecto</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.ResponsiveBackButton">
-    <Value>atrás</Value>
+    <Value>Volver</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.MegaMenu.ResponsiveMenuTitle">
     <Value>Menú</Value>
@@ -15600,7 +15600,7 @@
     <Value>Añadir nueva tab</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.BackToList">
-    <Value>Volver a pestañas</Value>
+    <Value>Volver a las pestañas</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.Categories">
     <Value>Asignación de Categoria</Value>
@@ -15735,10 +15735,10 @@
     <Value>Habilita una pestaña de producto con la descripción completa del producto</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.Settings.EnableProductReviewsTab">
-    <Value>Habilitar Productos de la Pestaña Comentarios</Value>
+    <Value>Activar la pestaña de reseñas de productos</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.Settings.EnableProductReviewsTab.Hint">
-    <Value>Activar tab con los comentarios del producto</Value>
+    <Value>Activa una pestaña con las reseñas del producto</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.Settings.EnableProductSpecificationsTab">
     <Value>Habilitar Pestaña especificaciones del producto</Value>
@@ -15762,7 +15762,7 @@
     <Value>Establecer el orden de visualización</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.Settings.ProductReviewsTabDisplayOrder">
-    <Value>Orden de presentación Comentarios la pestaña</Value>
+    <Value>Orden de presentación de la pestaña de reseñas</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Admin.Tabs.Settings.ProductReviewsTabDisplayOrder.Hint">
     <Value>Establecer el orden de visualización</Value>
@@ -15816,7 +15816,7 @@
     <Value>Imagen</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Client.Tabs.Reviews">
-    <Value>Comentarios</Value>
+    <Value>Reseñas</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.NopQuickTabs.Client.Tabs.Specifications">
     <Value>Especificaciones</Value>
@@ -16114,7 +16114,7 @@
     <Value>Añadir nuevo slider</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider.BackToList">
-    <Value>Volver a lista de sliders</Value>
+    <Value>Volver a la lista de sliders</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.AnywhereSliders.Admin.Slider.CategoriesNames">
     <Value>Categorías</Value>
@@ -16376,7 +16376,7 @@
     <Value>Add new Html Widget</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.HtmlWidgets.Admin.Entities.HtmlWidget.BackToList">
-    <Value>Back to Html Widget list</Value>
+    <Value>Volver a la lista de Widgets Html</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.HtmlWidgets.Admin.Entities.HtmlWidget.EditHtmlWidgetDetails">
     <Value>Edit Html Widget Details</Value>
@@ -16515,7 +16515,7 @@
     <Value>Specifies whether the products in this campaign will be mapped to a specific category.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.SaleCampaigns.Admin.Entities.SaleCampaign.BackToList">
-    <Value>Back to Sales Campaigns list</Value>
+    <Value>Volver a la lista de campañas de venta</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.SaleCampaigns.Admin.Entities.SaleCampaign.CategoryId">
     <Value>Category</Value>
@@ -16587,13 +16587,13 @@
     <Value>Override the cents on the calculated price.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.SaleCampaigns.Admin.Entities.SaleCampaign.PreviewTabTitle">
-    <Value>Preview</Value>
+    <Value>Previsualización</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.SaleCampaigns.Admin.Entities.SaleCampaign.PreviewTabTitle.Description">
     <Value>Here you can see which products will be discounted and with how much.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.SaleCampaigns.Admin.Entities.SaleCampaign.PreviewTabTitle.SaveBeforeEdit">
-    <Value>You need to save the Sales Campaign before you can see a preview.</Value>
+    <Value>Necesitas guardar la campaña de venta antes de poder ver una previsualización.</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.SaleCampaigns.Admin.Entities.SaleCampaign.SettingsTabTitle">
     <Value>Sales Campaign Settings</Value>
@@ -16653,7 +16653,7 @@
     <Value>Padding size</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.SaleCampaigns.Admin.Entities.SaleCampaignCustomization.Preview">
-    <Value>Preview</Value>
+    <Value>Previsualización</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Plugins.SaleCampaigns.Admin.Entities.SaleCampaignCustomization.SelectClockStyle">
     <Value>Step 2 - Clock Style</Value>
@@ -16767,7 +16767,7 @@
     <Value>Disponible Tokens del producto</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.BackToList">
-    <Value>Regresar a la cinta de lista de productos</Value>
+    <Value>Volver a la lista de cintas de productos</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.CategoryRibbonText">
     <Value>Texto de la imagen pequeña de la cinta de producto.</Value>
@@ -16845,10 +16845,10 @@
     <Value>Altura de la imagen</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.RibbonPicture.PictureUrl">
-    <Value>Imagen Anterior</Value>
+    <Value>Previsualización</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.RibbonPicture.PictureUrl.Hint">
-    <Value>Imagen Anterior</Value>
+    <Value>Previsualización</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.ProductRibbons.Admin.RibbonPicture.PictureWidth">
     <Value>Ancho de la Imagen</Value>
@@ -17333,7 +17333,7 @@
     </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.Common.BackSublist">
-    <Value>Atrás</Value>
+    <Value>Volver</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.Common.CloseMenu">
     <Value>Cerrar</Value>
