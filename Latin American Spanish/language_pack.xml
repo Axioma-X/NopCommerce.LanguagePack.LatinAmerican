@@ -17372,10 +17372,10 @@
     </Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.NeoFashion.Common.CompanyInfo">
-    <Value>Información de la empresa</Value>
+    <Value>Sobre la Empresa</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.NeoFashion.Common.CustomerServices">
-    <Value>Servicio al cliente</Value>
+    <Value>Servicio al Cliente</Value>
   </LocaleResource>
   <LocaleResource Name="sevenspikes.themes.neofashion.common.emaildomain">
     <Value>shop.com</Value>
