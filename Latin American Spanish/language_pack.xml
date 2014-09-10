@@ -383,7 +383,7 @@
     <Value>Pedido como Invitado</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.CheckoutAsGuestOrRegister">
-    <Value>Pedido como invitado o registrarse</Value>
+    <Value>Haz tu pedido como invitado o regístrate</Value>
   </LocaleResource>
   <LocaleResource Name="Account.Login.Fields.Email">
     <Value>Email</Value>
@@ -4776,13 +4776,13 @@
     <Value>Compruebe que sacar los acentos en las letras de los nombres de SEO, manteniendo la carta.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DefaultMetaDescription">
-    <Value>Descripción de meta predeterminada</Value>
+    <Value>Descripción meta por defecto</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DefaultMetaDescription.Hint">
     <Value>La meta description por defecto para las páginas en tu tienda. Puedes reemplazar en categorías individuales / productos / páginas de marcas.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DefaultMetaKeywords">
-    <Value>Palabras clave meta predeterminada</Value>
+    <Value>Palabras clave predeterminadas</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DefaultMetaKeywords.Hint">
     <Value>Las meta keywords por defecto para las páginas en tu tienda. Puedes reemplazar en categorías individuales / productos / páginas de marcas.</Value>
@@ -4809,7 +4809,7 @@
     <Value>El título predeterminado para las páginas de la tienda.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayEuCookieLawWarning">
-    <Value>Mostrar aviso ley cookies EU</Value>
+    <Value>Mostrar aviso de ley de cookies de EU</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.DisplayEuCookieLawWarning.Hint">
     <Value>Hacer que el sitio cumpla con la ley EU para cookie. Cuando está activado, los nuevos clientes verán un cuadro de advertencia adecuada. </Value>
@@ -4929,25 +4929,25 @@
     <Value>Ajustes de localización</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.MobileDevicesSupported">
-    <Value>Los dispositivos móviles compatibles</Value>
+    <Value>Soporte para dispositivos móviles</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.MobileDevicesSupported.Hint">
     <Value>Marcar para habilitar dispositivos de soporte móvil.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.PageTitleSeoAdjustment">
-    <Value>Título de la página de ajuste SEO</Value>
+    <Value>Ajuste de SEO para los títulos de página</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.PageTitleSeoAdjustment.Hint">
     <Value>Selecciona un ajuste al título de la página para SEO. Por ejemplo, el título generado podría ser (nombre de la página | YOURSTORE.COM) en lugar de (YOURSTORE.COM | Nombre de la página). </Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.PageTitleSeparator">
-    <Value>Título de la página separadora</Value>
+    <Value>Separador de los títulos de página</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.PageTitleSeparator.Hint">
     <Value>Especifique página de separación título.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.PdfLetterPageSizeEnabled">
-    <Value>Use la Carta tamaño de página</Value>
+    <Value>Use Carta como tamaño de página</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.PdfLetterPageSizeEnabled.Hint">
     <Value>Si se selecciona, use el tamaño de la página de los documentos PDF. Utiliza tamaño A4 si no se controla.</Value>
@@ -4974,7 +4974,7 @@
     <Value>Ingresa la clave pública del reCAPTCHA (si está activado).</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.ResponsiveDesignSupported">
-    <Value>Diseño Responsive apoyado</Value>
+    <Value>Soportar diseño Responsive</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.GeneralCommon.ResponsiveDesignSupported.Hint">
     <Value>Compruebe para permitir el diseño de respuesta. También tenga en cuenta que su tema gráfico también debe apoyarlo.</Value>
@@ -10212,7 +10212,7 @@
     <Value>Dirección de facturación</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.BillToThisAddress">
-    <Value>Dirección de facturación</Value>
+    <Value>Enviar a esta dirección</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.Button">
     <Value>Comprar</Value>
