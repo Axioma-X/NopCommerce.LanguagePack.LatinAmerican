@@ -3936,7 +3936,7 @@
     <Value>Ajustes de catálogo</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.AllowAnonymousUsersToEmailAFriend">
-    <Value>Permitir a usuarios anónimos compartir a un amigo</Value>
+    <Value>Permitir a usuarios anónimos compartir con un amigo</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.AllowAnonymousUsersToEmailAFriend.Hint">
     <Value>Marque si va a permitir que los usuarios anónimos compartan a un amigo.</Value>
@@ -3990,7 +3990,7 @@
     <Value>Marque para mostrar la información de impuestos y envío en las páginas de detalle de los productos. Esta opción se utiliza en Alemania.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.EmailAFriendEnabled">
-    <Value>'Compartir a un amigo' habilitado</Value>
+    <Value>'Compartir con un amigo' habilitado</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Catalog.EmailAFriendEnabled.Hint">
     <Value>Marque para permitir a los clientes utilizar la opción 'Enviar a un amigo' en su tienda</Value>
@@ -8931,7 +8931,7 @@
     <Value>Motivo de la devolución</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ReturnRequests.Fields.ReasonForReturn.Hint">
-    <Value>Motivo elegido para la vuelta.</Value>
+    <Value>Motivo elegido para la devolución.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.ReturnRequests.Fields.RequestedAction">
     <Value>Acción solicitada</Value>
@@ -12382,10 +12382,10 @@
     <Value>Vuelva a intentarlo pago</Value>
   </LocaleResource>
   <LocaleResource Name="Order.RetryPayment.Hint">
-    <Value>Esta orden aún no se paga. A pagar ahora, haga clic en el botón "Reintentar pago".</Value>
+    <Value>Esta orden aún no se paga. Para pagarla haga clic en el botón "Reintentar pago".</Value>
   </LocaleResource>
   <LocaleResource Name="Order.ReturnItems">
-    <Value>La vuelta del artículo(s)</Value>
+    <Value>Devolver artículo(s)</Value>
   </LocaleResource>
   <LocaleResource Name="Order.RewardPoints">
     <Value>{0} puntos de recompensa</Value>
@@ -12568,7 +12568,7 @@
     <Value>Mensajes Privados</Value>
   </LocaleResource>
   <LocaleResource Name="PageTitle.ProductEmailAFriend">
-    <Value>Compartir a un amigo</Value>
+    <Value>Compartir con un amigo</Value>
   </LocaleResource>
   <LocaleResource Name="PageTitle.ProductReviews">
     <Value>Reseñas de los productos</Value>
@@ -12589,7 +12589,7 @@
     <Value>Registro</Value>
   </LocaleResource>
   <LocaleResource Name="PageTitle.ReturnItems">
-    <Value>La vuelta del artículo(s)</Value>
+    <Value>Artículo(s) devuelto(s)</Value>
   </LocaleResource>
   <LocaleResource Name="PageTitle.Search">
     <Value>Buscar</Value>
@@ -13708,7 +13708,7 @@
     <Value>Descargar muestra</Value>
   </LocaleResource>
   <LocaleResource Name="Products.EmailAFriend">
-    <Value>Compartir a un amigo</Value>
+    <Value>Compartir con un amigo</Value>
   </LocaleResource>
   <LocaleResource Name="Products.EmailAFriend.Button">
     <Value>Enviar email</Value>
@@ -13735,7 +13735,7 @@
     <Value>Tu mensaje ha sido enviado.</Value>
   </LocaleResource>
   <LocaleResource Name="Products.EmailAFriend.Title">
-    <Value>Compartir a un amigo</Value>
+    <Value>Compartir con un amigo</Value>
   </LocaleResource>
   <LocaleResource Name="Products.EmailAFriend.YourEmailAddress">
     <Value>Tu email</Value>
@@ -17744,7 +17744,7 @@
     <Value>La lista de deseos está vacía.</Value>
   </LocaleResource>
   <LocaleResource Name="Wishlist.EmailAFriend">
-    <Value>Compartir a un amigo</Value>
+    <Value>Compartir con un amigo</Value>
   </LocaleResource>
   <LocaleResource Name="Wishlist.EmailAFriend.Button">
     <Value>Enviar email</Value>
@@ -17789,12 +17789,12 @@
     <Value>({0})</Value>
   </LocaleResource>
   <LocaleResource Name="Wishlist.UpdateCart">
-    <Value>Actualizar la lista de deseos.</Value>
+    <Value>Actualizar la lista de deseos</Value>
   </LocaleResource>
   <LocaleResource Name="Wishlist.WishlistOf">
-    <Value>Lista de deseos de {0}.</Value>
+    <Value>Lista de deseos de {0}</Value>
   </LocaleResource>
   <LocaleResource Name="Wishlist.YourWishlistURL">
-    <Value>La URL de tu lista de deseos para compartirla.</Value>
+    <Value>La URL de tu lista de deseos para compartirla</Value>
   </LocaleResource>
 </Language>
