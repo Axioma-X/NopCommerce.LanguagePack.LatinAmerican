@@ -179,13 +179,13 @@
     <Value>Ver pedido (ID - {0})</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerOrders.ReturnItems">
-    <Value>La vuelta del artículo(s)</Value>
+    <Value>Devolver artículo(s)</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerReturnRequests">
     <Value>Peticiones de Devolución</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerReturnRequests.Action">
-    <Value>Volver Acción: {0}</Value>
+    <Value>Devolución: {0}</Value>
   </LocaleResource>
   <LocaleResource Name="Account.CustomerReturnRequests.Comments">
     <Value>Comentarios:</Value>
@@ -10762,22 +10762,22 @@
     <Value>Cancelado</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Orders.OrderStatus.Complete">
-    <Value>Completar</Value>
+    <Value>Completado</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Orders.OrderStatus.Pending">
     <Value>Pendiente</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Orders.OrderStatus.Processing">
-    <Value>Tratamiento</Value>
+    <Value>Procesando</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Orders.ReturnRequestStatus.Cancelled">
     <Value>Cancelado</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Orders.ReturnRequestStatus.ItemsRefunded">
-    <Value>Artículo (s) devolverá</Value>
+    <Value>Artículo(s) reembolsado(s)</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Orders.ReturnRequestStatus.ItemsRepaired">
-    <Value>Artículo (s) reparado</Value>
+    <Value>Artículo(s) reparado(s)</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Orders.ReturnRequestStatus.Pending">
     <Value>Pendiente</Value>
@@ -10789,7 +10789,7 @@
     <Value>Solicitud rechazada</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Orders.ReturnRequestStatus.ReturnAuthorized">
-    <Value>Volver autorizado</Value>
+    <Value>Retorno autorizado</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Payments.PaymentStatus.Authorized">
     <Value>Autorizado</Value>
@@ -10798,13 +10798,13 @@
     <Value>Pagado</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Payments.PaymentStatus.PartiallyRefunded">
-    <Value>Parcialmente reembolsados</Value>
+    <Value>Parcialmente reembolsado</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Payments.PaymentStatus.Pending">
     <Value>Pendiente</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Payments.PaymentStatus.Refunded">
-    <Value>Reintegrado</Value>
+    <Value>Devuelto</Value>
   </LocaleResource>
   <LocaleResource Name="Enums.Nop.Core.Domain.Payments.PaymentStatus.Voided">
     <Value>Anulado</Value>
@@ -13951,10 +13951,10 @@
     <Value>Su solicitud de devolución ha sido enviada correctamente.</Value>
   </LocaleResource>
   <LocaleResource Name="ReturnRequests.Title">
-    <Value>Volver artículo(s) de la orden #{0}</Value>
+    <Value>Devolver artículo(s) de la orden #{0}</Value>
   </LocaleResource>
   <LocaleResource Name="ReturnRequests.WhyReturning">
-    <Value>Por qué estas devolviendo estos equipos?</Value>
+    <Value>¿Por qué estás devolviendo este/estos artículo(s)?</Value>
   </LocaleResource>
   <LocaleResource Name="Reviews">
     <Value>Reseñas</Value>
@@ -17390,7 +17390,7 @@
     <Value>Ir a...</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.NeoFashion.Common.GoToPage">
-    <Value>La página del producto</Value>
+    <Value>Página del producto</Value>
   </LocaleResource>
   <LocaleResource Name="SevenSpikes.Themes.NeoFashion.Common.Help">
     <Value>Ayuda</Value>
