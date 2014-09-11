@@ -93,6 +93,8 @@ Si desea la tienda sólo en español:
 
 
 ## Historia
+**2014 09 10:** Más correcciones menores y arreglo de repositorio
+
 **2014 07 16:** Adicionados los Plugins "Nop Sales Campaigns", "FoxNetSoft Advanced Activity Log" y más correcciones menores
 
 **2014 07 09:** Se cambia el botón "Comprar Ahora" por "Comprar Ya"
