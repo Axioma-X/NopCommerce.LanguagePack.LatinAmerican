@@ -10212,7 +10212,7 @@
     <Value>Dirección de facturación</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.BillToThisAddress">
-    <Value>Enviar a esta dirección</Value>
+    <Value>Cobrar a esta dirección</Value>
   </LocaleResource>
   <LocaleResource Name="Checkout.Button">
     <Value>Comprar</Value>
