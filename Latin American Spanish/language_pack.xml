@@ -5250,16 +5250,16 @@
     <Value>Ajuste el contador de identificación de la orden. Esto es útil si desea que sus órdenes inicien en un número determinado. Esto solo afecta a las órdenes creadas en el futuro. El valor debe ser mayor que la orden actual. </Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Order.OrderSettings">
-    <Value>Ajustes de orden</Value>
+    <Value>Configuración de las órdenes</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestActions">
-    <Value>Volver acción</Value>
+    <Value>Solicitud</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestActions.Hint">
     <Value>Una lista separada por comas de acciones que un cliente pueda elegir al momento de presentar una solicitud de devolución.</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestReasons">
-    <Value>Volver razones</Value>
+    <Value>Razones de devolución</Value>
   </LocaleResource>
   <LocaleResource Name="Admin.Configuration.Settings.Order.ReturnRequestReasons.Hint">
     <Value>Una lista separada por comas de razones que un cliente podrá elegir al momento de presentar una solicitud de devolución.</Value>
@@ -13933,19 +13933,19 @@
     <Value>Precio por unidad</Value>
   </LocaleResource>
   <LocaleResource Name="ReturnRequests.Products.Quantity">
-    <Value>Cantidad volver</Value>
+    <Value>Cantidad a devolver</Value>
   </LocaleResource>
   <LocaleResource Name="ReturnRequests.ReturnAction">
-    <Value>Volver acción</Value>
+    <Value>Solicitud</Value>
   </LocaleResource>
   <LocaleResource Name="ReturnRequests.ReturnReason">
-    <Value>Razón de vuelta</Value>
+    <Value>Razón de devolución</Value>
   </LocaleResource>
   <LocaleResource Name="ReturnRequests.SelectProduct(s)">
-    <Value>Qué artículos desea devolver?</Value>
+    <Value>¿Qué artículos desea devolver?</Value>
   </LocaleResource>
   <LocaleResource Name="ReturnRequests.Submit">
-    <Value>Enviar regresar petición</Value>
+    <Value>Enviar solicitud de devolución</Value>
   </LocaleResource>
   <LocaleResource Name="ReturnRequests.Submitted">
     <Value>Su solicitud de devolución ha sido enviada correctamente.</Value>
