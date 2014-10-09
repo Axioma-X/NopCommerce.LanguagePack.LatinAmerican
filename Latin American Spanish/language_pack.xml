@@ -17570,7 +17570,7 @@
     <Value>Del producto se eliminará</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.ProductUnpublished">
-    <Value>El producto no se publica</Value>
+    <Value>El producto ya no se encuentra disponible</Value>
   </LocaleResource>
   <LocaleResource Name="ShoppingCart.Quantity">
     <Value>Cantidad.</Value>
