@@ -30,6 +30,7 @@ Author v3.10: [varatayo](http://www.nopcommerce.com/profile.aspx?userid=85808)
 - Nop Quick View
 - Nop NeoFashion Theme
 - Nop Sales Campaigns
+- Nop Smart SEO (Pendiente por traducir)
 - FoxNetSoft Advanced Activity Log
 - FoxNetSoft Contents
 - FoxNetSoft MSSQLProvider
