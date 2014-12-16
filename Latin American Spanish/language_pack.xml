@@ -198,10 +198,10 @@
 		<Value>Artículo devuelto:</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerReturnRequests.Reason">
-		<Value>Volver Motivo: {0}</Value>
+		<Value>Razón de devolución: {0}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.CustomerReturnRequests.Title">
-		<Value>Volver #{0} - {1}</Value>
+		<Value>Devolución #{0} - {1}</Value>
 	</LocaleResource>
 	<LocaleResource Name="Account.DownloadableProducts">
 		<Value>Los productos descargables</Value>

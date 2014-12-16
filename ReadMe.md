@@ -94,6 +94,8 @@ Si desea la tienda sólo en español:
 
 
 ## Historia
+**2014 12 16:** Más correcciones menores
+
 **2014 12 12:** Más correcciones menores y adición de plugin Nop Smart SEO (Pendiente por traducir)
 
 **2014 09 10:** Más correcciones menores y arreglo de repositorio
